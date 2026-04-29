@@ -1,0 +1,11 @@
+2026-04-29 21:10:20,348 - INFO - === Starting Mutual Fund Ingestion Pipeline (Local) ===
+2026-04-29 21:10:20,348 - INFO - --- Phase: Scraping ---
+2026-04-29 21:10:20,348 - INFO - Starting execution: src/ingestion/scraper.py
+2026-04-29 21:10:39,291 - INFO - Successfully completed: src/ingestion/scraper.py
+2026-04-29 21:10:39,293 - INFO - --- Phase: Processing ---
+2026-04-29 21:10:39,293 - INFO - Starting execution: src/ingestion/processor.py
+2026-04-29 21:11:28,404 - INFO - Successfully completed: src/ingestion/processor.py
+2026-04-29 21:11:28,405 - INFO - --- Phase: Embedding ---
+2026-04-29 21:11:28,405 - INFO - Starting execution: src/ingestion/embedder.py
+2026-04-29 21:12:19,923 - INFO - Successfully completed: src/ingestion/embedder.py
+2026-04-29 21:12:19,925 - INFO - === Ingestion Pipeline Completed Successfully ===

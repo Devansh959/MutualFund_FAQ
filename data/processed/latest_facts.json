@@ -1,0 +1,142 @@
+[
+    {
+        "Fund Name": "HDFC Mid Cap Fund Direct Growth",
+        "NAV": 220.217,
+        "Min SIP Amount": 100,
+        "Fund Size": 85357.9246,
+        "Expense Ratio": "0.79",
+        "Rating": 5,
+        "Risk": "Moderately High",
+        "Category": "Equity"
+    },
+    {
+        "Fund Name": "HDFC Silver ETF FoF Direct Growth",
+        "NAV": 38.7951,
+        "Min SIP Amount": 100,
+        "Fund Size": 4112.3134,
+        "Expense Ratio": "0.21",
+        "Rating": null,
+        "Risk": "Very High",
+        "Category": "Commodities"
+    },
+    {
+        "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
+        "NAV": 2146.715,
+        "Min SIP Amount": 100,
+        "Fund Size": 91334.9081,
+        "Expense Ratio": "0.99",
+        "Rating": 5,
+        "Risk": "Moderately High",
+        "Category": "Equity"
+    },
+    {
+        "Fund Name": "HDFC Defence Fund Direct Growth",
+        "NAV": 27.322,
+        "Min SIP Amount": 100,
+        "Fund Size": 7304.6115,
+        "Expense Ratio": "1.06",
+        "Rating": null,
+        "Risk": "Very High",
+        "Category": "Equity"
+    },
+    {
+        "Fund Name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+        "NAV": 46.3103,
+        "Min SIP Amount": 100,
+        "Fund Size": 10990.1884,
+        "Expense Ratio": "0.2",
+        "Rating": 3,
+        "Risk": "Moderately High Riskometer",
+        "Category": "Commodities"
+    },
+    {
+        "Fund Name": "HDFC Small Cap Fund Direct Growth",
+        "NAV": 151.636,
+        "Min SIP Amount": 100,
+        "Fund Size": 33724.2836,
+        "Expense Ratio": "0.74",
+        "Rating": 4,
+        "Risk": "Moderately High Riskometer",
+        "Category": "Equity"
+    },
+    {
+        "Fund Name": "HDFC Balanced Advantage Fund Direct Growth",
+        "NAV": 560.361,
+        "Min SIP Amount": 100,
+        "Fund Size": 98457.7544,
+        "Expense Ratio": "0.74",
+        "Rating": 5,
+        "Risk": "Moderately High Riskometer",
+        "Category": "Hybrid"
+    },
+    {
+        "Fund Name": "HDFC Multi Cap Fund Direct Growth",
+        "NAV": 19.212,
+        "Min SIP Amount": 100,
+        "Fund Size": 17561.5153,
+        "Expense Ratio": "0.97",
+        "Rating": 3,
+        "Risk": "Very High",
+        "Category": "Equity"
+    },
+    {
+        "Fund Name": "HDFC Short Term Debt Fund Direct Plan Growth",
+        "NAV": 34.5746,
+        "Min SIP Amount": 100,
+        "Fund Size": 14727.9201,
+        "Expense Ratio": "0.39",
+        "Rating": 4,
+        "Risk": "Moderately Low",
+        "Category": "Debt"
+    },
+    {
+        "Fund Name": "HDFC BSE Sensex Index Fund Direct Growth",
+        "NAV": 731.1003,
+        "Min SIP Amount": 100,
+        "Fund Size": 7896.8542,
+        "Expense Ratio": "0.23",
+        "Rating": 2,
+        "Risk": "Moderately High",
+        "Category": "Equity"
+    },
+    {
+        "Fund Name": "HDFC Pharma And Healthcare Fund Direct Growth",
+        "NAV": 18.764,
+        "Min SIP Amount": 100,
+        "Fund Size": 1976.8614,
+        "Expense Ratio": "0.88",
+        "Rating": null,
+        "Risk": "Very High",
+        "Category": "Equity"
+    },
+    {
+        "Fund Name": "HDFC Liquid Direct Plan Growth",
+        "NAV": 5445.0488,
+        "Min SIP Amount": 100,
+        "Fund Size": 53982.3157,
+        "Expense Ratio": "0.21",
+        "Rating": 2,
+        "Risk": "Low",
+        "Category": "Debt"
+    },
+    {
+        "Fund Name": "HDFC Nifty Smallcap 250 Index Fund Direct Growth",
+        "NAV": 18.1978,
+        "Min SIP Amount": 100,
+        "Fund Size": 530.9003,
+        "Expense Ratio": "0.32",
+        "Rating": null,
+        "Risk": "Very High",
+        "Category": "Equity"
+    },
+    {
+        "Fund Name": "HDFC Multi Asset Allocation Fund Direct Growth",
+        "NAV": 83.181,
+        "Min SIP Amount": 100,
+        "Fund Size": 5555.8153317,
+        "Expense Ratio": "2.64",
+        "Rating": 3,
+        "Risk": "Moderate Riskometer",
+        "Category": "Hybrid"
+    }
+]

@@ -1,0 +1,18 @@
+2026-04-29 21:41:40,113 - INFO - === Starting Mutual Fund Ingestion Pipeline (Local) ===
+2026-04-29 21:41:40,113 - INFO - --- Phase: Scraping ---
+2026-04-29 21:41:40,116 - INFO - Starting execution: src/ingestion/scraper.py
+2026-04-29 21:41:54,538 - INFO - Successfully completed: src/ingestion/scraper.py
+2026-04-29 21:41:54,538 - INFO - --- Phase: Processing ---
+2026-04-29 21:41:54,539 - INFO - Starting execution: src/ingestion/processor.py
+2026-04-29 21:42:40,239 - INFO - Successfully completed: src/ingestion/processor.py
+2026-04-29 21:42:40,239 - INFO - --- Phase: Embedding ---
+2026-04-29 21:42:40,239 - INFO - Starting execution: src/ingestion/embedder.py
+2026-04-29 21:43:10,655 - INFO - Successfully completed: src/ingestion/embedder.py
+2026-04-29 21:43:10,657 - INFO - === Ingestion Pipeline Completed Successfully ===
+2026-04-29 21:43:10,657 - INFO - --- Phase: Cleanup ---
+2026-04-29 21:43:10,660 - INFO - Removed old data file: data/raw\scrape_20260429_211038.json
+2026-04-29 21:43:10,661 - INFO - Removed old data file: data/raw\scrape_20260428_175853.json
+2026-04-29 21:43:10,663 - INFO - Removed old data file: data/processed\chunks_20260429_211126.json
+2026-04-29 21:43:10,663 - INFO - Removed old data file: data/processed\chunks_20260428_181145.json
+2026-04-29 21:43:10,663 - INFO - Removed old data file: data/processed\chunks_20260428_180102.json
+2026-04-29 21:43:10,663 - INFO - Removed old data file: data/processed\chunks_20260428_175917.json

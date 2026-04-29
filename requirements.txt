@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+playwright
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+chromadb
+pandas
+python-dotenv
+google-generativeai
+rank_bm25
+fastapi
+pydantic
+uvicorn
+numpy
