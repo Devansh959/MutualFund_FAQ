@@ -1,17 +1,17 @@
 [
     {
         "Fund Name": "HDFC Mid Cap Fund Direct Growth",
-        "NAV": 218.745,
+        "NAV": 222.525,
         "Min SIP Amount": 100,
         "Fund Size": 85357.9246,
-        "Expense Ratio": "0.8",
+        "Expense Ratio": "0.73",
         "Rating": 5,
         "Risk": "Moderately High",
         "Category": "Equity"
     },
     {
         "Fund Name": "HDFC Silver ETF FoF Direct Growth",
-        "NAV": 39.5975,
+        "NAV": 40.5772,
         "Min SIP Amount": 100,
         "Fund Size": 4112.3134,
         "Expense Ratio": "0.21",
@@ -21,7 +21,7 @@
     },
     {
         "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
-        "NAV": 2136.67,
+        "NAV": 2171.391,
         "Min SIP Amount": 100,
         "Fund Size": 91334.9081,
         "Expense Ratio": "0.67",
@@ -31,7 +31,7 @@
     },
     {
         "Fund Name": "HDFC Defence Fund Direct Growth",
-        "NAV": 27.921,
+        "NAV": 28.004,
         "Min SIP Amount": 100,
         "Fund Size": 7304.6115,
         "Expense Ratio": "0.83",
@@ -41,7 +41,7 @@
     },
     {
         "Fund Name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-        "NAV": 46.0786,
+        "NAV": 46.7613,
         "Min SIP Amount": 100,
         "Fund Size": 10990.1884,
         "Expense Ratio": "0.2",
@@ -51,37 +51,37 @@
     },
     {
         "Fund Name": "HDFC Small Cap Fund Direct Growth",
-        "NAV": 152.429,
+        "NAV": 154.929,
         "Min SIP Amount": 100,
         "Fund Size": 33724.2836,
-        "Expense Ratio": "0.85",
+        "Expense Ratio": "0.83",
         "Rating": 4,
         "Risk": "Moderately High Riskometer",
         "Category": "Equity"
     },
     {
         "Fund Name": "HDFC Balanced Advantage Fund Direct Growth",
-        "NAV": 559.579,
+        "NAV": 565.409,
         "Min SIP Amount": 100,
         "Fund Size": 98457.7544,
-        "Expense Ratio": "0.81",
+        "Expense Ratio": "0.77",
         "Rating": 5,
         "Risk": "Moderately High Riskometer",
         "Category": "Hybrid"
     },
     {
         "Fund Name": "HDFC Multi Cap Fund Direct Growth",
-        "NAV": 19.231,
+        "NAV": 19.496,
         "Min SIP Amount": 100,
         "Fund Size": 17561.5153,
-        "Expense Ratio": "1.08",
+        "Expense Ratio": "0.92",
         "Rating": 3,
         "Risk": "Very High",
         "Category": "Equity"
     },
     {
         "Fund Name": "HDFC Short Term Debt Fund Direct Plan Growth",
-        "NAV": 34.5555,
+        "NAV": 34.6014,
         "Min SIP Amount": 100,
         "Fund Size": 15462.916,
         "Expense Ratio": "0.39",
@@ -91,27 +91,27 @@
     },
     {
         "Fund Name": "HDFC BSE Sensex Index Fund Direct Growth",
-        "NAV": 732.3132,
+        "NAV": 741.2561,
         "Min SIP Amount": 100,
         "Fund Size": 7896.8542,
-        "Expense Ratio": "0.21",
+        "Expense Ratio": "0.28",
         "Rating": 2,
         "Risk": "Moderately High",
         "Category": "Equity"
     },
     {
         "Fund Name": "HDFC Pharma And Healthcare Fund Direct Growth",
-        "NAV": 19.242,
+        "NAV": 19.567,
         "Min SIP Amount": 100,
         "Fund Size": 1976.8614,
-        "Expense Ratio": "1.76",
+        "Expense Ratio": "1.02",
         "Rating": null,
         "Risk": "Very High",
         "Category": "Equity"
     },
     {
         "Fund Name": "HDFC Liquid Direct Plan Growth",
-        "NAV": 5450.4622,
+        "NAV": 5451.3426,
         "Min SIP Amount": 100,
         "Fund Size": 72872.5607,
         "Expense Ratio": "0.21",
@@ -121,7 +121,7 @@
     },
     {
         "Fund Name": "HDFC Nifty Smallcap 250 Index Fund Direct Growth",
-        "NAV": 18.4217,
+        "NAV": 18.7541,
         "Min SIP Amount": 100,
         "Fund Size": 530.9003,
         "Expense Ratio": "0.32",
@@ -131,10 +131,10 @@
     },
     {
         "Fund Name": "HDFC Multi Asset Allocation Fund Direct Growth",
-        "NAV": 83.162,
+        "NAV": 83.915,
         "Min SIP Amount": 100,
         "Fund Size": 5555.8153317,
-        "Expense Ratio": "1.18",
+        "Expense Ratio": "0.79",
         "Rating": 3,
         "Risk": "Moderate Riskometer",
         "Category": "Hybrid"
