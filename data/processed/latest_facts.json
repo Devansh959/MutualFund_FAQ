@@ -14,7 +14,7 @@
         "NAV": 43.1633,
         "Min SIP Amount": 100,
         "Fund Size": 4433.9847,
-        "Expense Ratio": "0.22",
+        "Expense Ratio": "0.23",
         "Rating": null,
         "Risk": "Very High",
         "Category": "Commodities"
@@ -24,7 +24,7 @@
         "NAV": 2159.839,
         "Min SIP Amount": 100,
         "Fund Size": 100479.2308,
-        "Expense Ratio": "0.72",
+        "Expense Ratio": "0.71",
         "Rating": 5,
         "Risk": "Moderately High",
         "Category": "Equity"
@@ -34,7 +34,7 @@
         "NAV": 29.211,
         "Min SIP Amount": 100,
         "Fund Size": 9123.6053,
-        "Expense Ratio": "0.83",
+        "Expense Ratio": "0.82",
         "Rating": null,
         "Risk": "Very High",
         "Category": "Equity"
@@ -44,7 +44,7 @@
         "NAV": 48.6914,
         "Min SIP Amount": 100,
         "Fund Size": 11464.3532,
-        "Expense Ratio": "0.21",
+        "Expense Ratio": "0.2",
         "Rating": 3,
         "Risk": "Moderately High Riskometer",
         "Category": "Commodities"
@@ -54,7 +54,7 @@
         "NAV": 153.613,
         "Min SIP Amount": 100,
         "Fund Size": 38168.1786,
-        "Expense Ratio": "0.73",
+        "Expense Ratio": "0.86",
         "Rating": 4,
         "Risk": "Moderately High Riskometer",
         "Category": "Equity"
@@ -64,7 +64,7 @@
         "NAV": 556.38,
         "Min SIP Amount": 100,
         "Fund Size": 105377.6508,
-        "Expense Ratio": "0.78",
+        "Expense Ratio": "0.75",
         "Rating": 5,
         "Risk": "Moderately High Riskometer",
         "Category": "Hybrid"
@@ -74,7 +74,7 @@
         "NAV": 19.323,
         "Min SIP Amount": 100,
         "Fund Size": 19557.5716,
-        "Expense Ratio": "0.99",
+        "Expense Ratio": "0.82",
         "Rating": 3,
         "Risk": "Very High",
         "Category": "Equity"
@@ -84,7 +84,7 @@
         "NAV": 34.5458,
         "Min SIP Amount": 100,
         "Fund Size": 15462.916,
-        "Expense Ratio": "0.4",
+        "Expense Ratio": "0.43",
         "Rating": 4,
         "Risk": "Moderately Low",
         "Category": "Debt"
@@ -94,7 +94,7 @@
         "NAV": 722.4827,
         "Min SIP Amount": 100,
         "Fund Size": 8511.618,
-        "Expense Ratio": "0.22",
+        "Expense Ratio": "0.21",
         "Rating": 2,
         "Risk": "Moderately High",
         "Category": "Equity"
@@ -104,14 +104,14 @@
         "NAV": 20.01,
         "Min SIP Amount": 100,
         "Fund Size": 2158.5771,
-        "Expense Ratio": "0.98",
+        "Expense Ratio": "1.66",
         "Rating": null,
         "Risk": "Very High",
         "Category": "Equity"
     },
     {
         "Fund Name": "HDFC Liquid Direct Plan Growth",
-        "NAV": 5468.689,
+        "NAV": 5469.6355,
         "Min SIP Amount": 100,
         "Fund Size": 72872.5607,
         "Expense Ratio": "0.2",
@@ -134,7 +134,7 @@
         "NAV": 83.596,
         "Min SIP Amount": 100,
         "Fund Size": 5887.053,
-        "Expense Ratio": "0.86",
+        "Expense Ratio": "0.88",
         "Rating": 3,
         "Risk": "Moderate Riskometer",
         "Category": "Hybrid"
