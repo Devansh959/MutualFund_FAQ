@@ -14,7 +14,7 @@
         "NAV": 43.1404,
         "Min SIP Amount": 100,
         "Fund Size": 4433.9847,
-        "Expense Ratio": "0.23",
+        "Expense Ratio": "0.21",
         "Rating": null,
         "Risk": "Very High",
         "Category": "Commodities"
@@ -24,7 +24,7 @@
         "NAV": 2132.088,
         "Min SIP Amount": 100,
         "Fund Size": 100479.2308,
-        "Expense Ratio": "0.71",
+        "Expense Ratio": "0.68",
         "Rating": 5,
         "Risk": "Moderately High",
         "Category": "Equity"
@@ -54,7 +54,7 @@
         "NAV": 151.914,
         "Min SIP Amount": 100,
         "Fund Size": 38168.1786,
-        "Expense Ratio": "0.86",
+        "Expense Ratio": "0.73",
         "Rating": 4,
         "Risk": "Moderately High Riskometer",
         "Category": "Equity"
@@ -84,7 +84,7 @@
         "NAV": 34.5755,
         "Min SIP Amount": 100,
         "Fund Size": 15462.916,
-        "Expense Ratio": "0.43",
+        "Expense Ratio": "0.39",
         "Rating": 4,
         "Risk": "Moderately Low",
         "Category": "Debt"
@@ -104,14 +104,14 @@
         "NAV": 19.928,
         "Min SIP Amount": 100,
         "Fund Size": 2158.5771,
-        "Expense Ratio": "1.66",
+        "Expense Ratio": "0.92",
         "Rating": null,
         "Risk": "Very High",
         "Category": "Equity"
     },
     {
         "Fund Name": "HDFC Liquid Direct Plan Growth",
-        "NAV": 5471.0997,
+        "NAV": 5472.9757,
         "Min SIP Amount": 100,
         "Fund Size": 72872.5607,
         "Expense Ratio": "0.2",
@@ -124,7 +124,7 @@
         "NAV": 18.4968,
         "Min SIP Amount": 100,
         "Fund Size": 643.8434,
-        "Expense Ratio": "0.32",
+        "Expense Ratio": "0.28",
         "Rating": 2,
         "Risk": "Very High",
         "Category": "Equity"
@@ -134,7 +134,7 @@
         "NAV": 82.8,
         "Min SIP Amount": 100,
         "Fund Size": 5887.053,
-        "Expense Ratio": "0.88",
+        "Expense Ratio": "0.85",
         "Rating": 3,
         "Risk": "Moderate Riskometer",
         "Category": "Hybrid"

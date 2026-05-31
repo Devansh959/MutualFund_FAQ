@@ -1,7 +1,7 @@
 [
     {
         "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:15.836813",
+        "timestamp": "2026-05-31T07:36:20.153427",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -217,7 +217,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.639Z",
+                            "launch_date": "1999-12-09T18:30:00.295Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -268,7 +268,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 34,
+                                "stat_1y": 30,
                                 "stat_3y": 11,
                                 "stat_5y": 5,
                                 "stat_all": null,
@@ -308,7 +308,7 @@
                                 "cat_return_since_launch": null,
                                 "rank3m": 58,
                                 "rank6m": 51,
-                                "rank1yr": 34,
+                                "rank1yr": 30,
                                 "rank3yr": 11,
                                 "rank5yr": 5,
                                 "rank10yr": 6,
@@ -1874,6 +1874,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.73,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.73,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -8403,7 +8409,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/whiteoak_groww.png",
                                 "groww_scheme_code": "INF03VN01597",
-                                "expense_ratio": "1.37",
+                                "expense_ratio": "0.6",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -8442,7 +8448,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
                                 "groww_scheme_code": "INF843K01AO4",
-                                "expense_ratio": "1.4",
+                                "expense_ratio": "0.48",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -8520,7 +8526,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
                                 "groww_scheme_code": "INF903J01MJ3",
-                                "expense_ratio": "0.94",
+                                "expense_ratio": "0.88",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -8582,7 +8588,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "vZyAk7/O3nmC7lB4Nn/BckuVlPzTljNWr/IkpQbhZxk=",
+                    "nonce": "YypHk4CXLFskEVW9NR766LwXJxIu+GNwnny2oQBJwF4=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -8590,7 +8596,7 @@
                     }
                 },
                 {
-                    "nonce": "vZyAk7/O3nmC7lB4Nn/BckuVlPzTljNWr/IkpQbhZxk=",
+                    "nonce": "YypHk4CXLFskEVW9NR766LwXJxIu+GNwnny2oQBJwF4=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -8602,7 +8608,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-        "timestamp": "2026-05-30T06:39:16.240352",
+        "timestamp": "2026-05-31T07:36:20.579281",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -8768,7 +8774,7 @@
                         "benchmark": "Domestic Price of Silver",
                         "benchmark_name": "Domestic Price of Silver",
                         "aum": 4433.9847,
-                        "expense_ratio": "0.23",
+                        "expense_ratio": "0.21",
                         "portfolio_turnover": null,
                         "super_category": "HDFC Silver ETF FoF Direct-Growth",
                         "sub_sub_category": "",
@@ -8783,8 +8789,8 @@
                                 "scheme_code": "150737",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "expense_analysis",
-                                "analysis_desc": "Lower expense ratio: 0.23%",
-                                "analysis_data": "0.23",
+                                "analysis_desc": "Lower expense ratio: 0.21%",
+                                "analysis_data": "0.21",
                                 "rating": null
                             },
                             {
@@ -8810,7 +8816,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.346Z",
+                            "launch_date": "1999-12-09T18:30:00.434Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -8861,8 +8867,8 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 4,
-                                "stat_3y": 3,
+                                "stat_1y": 3,
+                                "stat_3y": 2,
                                 "stat_5y": null,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
@@ -8899,10 +8905,10 @@
                                 "cat_return5y": null,
                                 "cat_return10y": null,
                                 "cat_return_since_launch": null,
-                                "rank3m": 11,
-                                "rank6m": 9,
-                                "rank1yr": 4,
-                                "rank3yr": 3,
+                                "rank3m": 12,
+                                "rank6m": 10,
+                                "rank1yr": 3,
+                                "rank3yr": 2,
                                 "rank5yr": null,
                                 "rank10yr": null,
                                 "index_return1y": null,
@@ -9486,6 +9492,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.21,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.23,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -15332,7 +15344,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "mU8YvWDsxblUyi9Dd6kCnFTdMTyq7rufNpn0pVtrsPs=",
+                    "nonce": "csp/QYlASEjtY5eC1IhZTpq6jr66yDGUbr0Vsd7aLtU=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -15340,7 +15352,7 @@
                     }
                 },
                 {
-                    "nonce": "mU8YvWDsxblUyi9Dd6kCnFTdMTyq7rufNpn0pVtrsPs=",
+                    "nonce": "csp/QYlASEjtY5eC1IhZTpq6jr66yDGUbr0Vsd7aLtU=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -15352,7 +15364,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:16.653420",
+        "timestamp": "2026-05-31T07:36:21.048212",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -15518,7 +15530,7 @@
                         "benchmark": "NIFTY 500 TRI",
                         "benchmark_name": "NIFTY 500 Total Return Index",
                         "aum": 100479.2308,
-                        "expense_ratio": "0.71",
+                        "expense_ratio": "0.68",
                         "portfolio_turnover": 29,
                         "super_category": "HDFC Flexi Cap Direct Plan-Growth",
                         "sub_sub_category": "",
@@ -15541,8 +15553,8 @@
                                 "scheme_code": "118955",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "expense_analysis",
-                                "analysis_desc": "Lower expense ratio: 0.71%",
-                                "analysis_data": "0.71",
+                                "analysis_desc": "Lower expense ratio: 0.68%",
+                                "analysis_data": "0.68",
                                 "rating": null
                             },
                             {
@@ -15568,7 +15580,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.354Z",
+                            "launch_date": "1999-12-09T18:30:00.050Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -15619,7 +15631,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 62,
+                                "stat_1y": 50,
                                 "stat_3y": 13,
                                 "stat_5y": 4,
                                 "stat_all": null,
@@ -15657,12 +15669,12 @@
                                 "cat_return5y": 15.612299390110422,
                                 "cat_return10y": 13.476536766511122,
                                 "cat_return_since_launch": null,
-                                "rank3m": 111,
-                                "rank6m": 88,
-                                "rank1yr": 62,
+                                "rank3m": 115,
+                                "rank6m": 91,
+                                "rank1yr": 50,
                                 "rank3yr": 13,
                                 "rank5yr": 4,
-                                "rank10yr": 3,
+                                "rank10yr": 4,
                                 "index_return1y": -3.6998217604,
                                 "index_return3y": 16.510310840782,
                                 "index_return5y": 15.150279137029,
@@ -17094,6 +17106,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.68,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.71,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -23623,7 +23641,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hsbc_groww.png",
                                 "groww_scheme_code": "INF336L01DH5",
-                                "expense_ratio": "1.54",
+                                "expense_ratio": "1.05",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -23662,7 +23680,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/jm_groww.png",
                                 "groww_scheme_code": "INF192K01CC7",
-                                "expense_ratio": "1.16",
+                                "expense_ratio": "0.65",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -23701,7 +23719,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png",
                                 "groww_scheme_code": "INF179K01UT0",
-                                "expense_ratio": "0.71",
+                                "expense_ratio": "0.68",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -23802,7 +23820,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "PuCVigzAF5CrxAh3iaBXWxUIRIUt5rSY7agFBCqDgI4=",
+                    "nonce": "2s7VhcP+NXtgC0T/OEBjrIkIbCgkDey62ZFEdYk8vDA=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -23810,7 +23828,7 @@
                     }
                 },
                 {
-                    "nonce": "PuCVigzAF5CrxAh3iaBXWxUIRIUt5rSY7agFBCqDgI4=",
+                    "nonce": "2s7VhcP+NXtgC0T/OEBjrIkIbCgkDey62ZFEdYk8vDA=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -23822,7 +23840,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:17.092611",
+        "timestamp": "2026-05-31T07:36:21.440688",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -24022,7 +24040,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.944Z",
+                            "launch_date": "1999-12-09T18:30:00.504Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -24073,7 +24091,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 9,
+                                "stat_1y": 8,
                                 "stat_3y": null,
                                 "stat_5y": null,
                                 "stat_all": null,
@@ -24113,7 +24131,7 @@
                                 "cat_return_since_launch": null,
                                 "rank3m": 7,
                                 "rank6m": 3,
-                                "rank1yr": 9,
+                                "rank1yr": 8,
                                 "rank3yr": null,
                                 "rank5yr": null,
                                 "rank10yr": null,
@@ -24940,6 +24958,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.82,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.82,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -30734,7 +30758,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "mQ3Utt/Xns4kZgBrezAxtOttDTiUEaLTR/xZoyNEF8c=",
+                    "nonce": "x+SDz8zK61vqSOeUa5FS+SZqVcyMWhkVUN8xz2pSre8=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -30742,7 +30766,7 @@
                     }
                 },
                 {
-                    "nonce": "mQ3Utt/Xns4kZgBrezAxtOttDTiUEaLTR/xZoyNEF8c=",
+                    "nonce": "x+SDz8zK61vqSOeUa5FS+SZqVcyMWhkVUN8xz2pSre8=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -30754,7 +30778,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-        "timestamp": "2026-05-30T06:39:17.519718",
+        "timestamp": "2026-05-31T07:36:21.800454",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -30962,7 +30986,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.106Z",
+                            "launch_date": "1999-12-09T18:30:00.871Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -31013,9 +31037,9 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 9,
-                                "stat_3y": 6,
-                                "stat_5y": 5,
+                                "stat_1y": 12,
+                                "stat_3y": 7,
+                                "stat_5y": 6,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
                             }
@@ -31051,11 +31075,11 @@
                                 "cat_return5y": 20.95384843351483,
                                 "cat_return10y": 17.040816927548995,
                                 "cat_return_since_launch": null,
-                                "rank3m": 22,
-                                "rank6m": 16,
-                                "rank1yr": 9,
-                                "rank3yr": 6,
-                                "rank5yr": 5,
+                                "rank3m": 24,
+                                "rank6m": 18,
+                                "rank1yr": 12,
+                                "rank3yr": 7,
+                                "rank5yr": 6,
                                 "rank10yr": 3,
                                 "index_return1y": 9.384359401,
                                 "index_return3y": 4.5609681700373,
@@ -31631,6 +31655,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.2,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.2,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -37807,7 +37837,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "TCvORwXErXbClih04C+hZjteFNfNemUHA5YkWkWpjvs=",
+                    "nonce": "f3C8/P2vkTHVcMCBef4tMutwCpyGPBogZNRM+ZFNZ1M=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -37815,7 +37845,7 @@
                     }
                 },
                 {
-                    "nonce": "TCvORwXErXbClih04C+hZjteFNfNemUHA5YkWkWpjvs=",
+                    "nonce": "f3C8/P2vkTHVcMCBef4tMutwCpyGPBogZNRM+ZFNZ1M=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -37827,7 +37857,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:17.953341",
+        "timestamp": "2026-05-31T07:36:22.393999",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -37993,7 +38023,7 @@
                         "benchmark": "BSE 250 SmallCap TRI",
                         "benchmark_name": "BSE 250 SmallCap Total Return Index",
                         "aum": 38168.1786,
-                        "expense_ratio": "0.86",
+                        "expense_ratio": "0.73",
                         "portfolio_turnover": 6,
                         "super_category": "HDFC Small Cap Fund",
                         "sub_sub_category": "",
@@ -38016,8 +38046,8 @@
                                 "scheme_code": "130503",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "expense_analysis",
-                                "analysis_desc": "Lower expense ratio: 0.86%",
-                                "analysis_data": "0.86",
+                                "analysis_desc": "Lower expense ratio: 0.73%",
+                                "analysis_data": "0.73",
                                 "rating": null
                             },
                             {
@@ -38035,7 +38065,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.712Z",
+                            "launch_date": "1999-12-09T18:30:00.365Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -39811,6 +39841,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.73,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.86,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -46490,7 +46526,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/escorts_groww.png",
                                 "groww_scheme_code": "INF966L01689",
-                                "expense_ratio": "0.73",
+                                "expense_ratio": "0.69",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -46529,7 +46565,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
                                 "groww_scheme_code": "INF903J01NK9",
-                                "expense_ratio": "1.43",
+                                "expense_ratio": "0.85",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -46591,7 +46627,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "3oWsFFnBr8zTgJvMJnqzfTmX5OS12W2lSRu7defwSMk=",
+                    "nonce": "rMMWAzBMTCW01fmAU3qhZtrhFF4BG6NqrtSBb9vJjsY=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -46599,7 +46635,7 @@
                     }
                 },
                 {
-                    "nonce": "3oWsFFnBr8zTgJvMJnqzfTmX5OS12W2lSRu7defwSMk=",
+                    "nonce": "rMMWAzBMTCW01fmAU3qhZtrhFF4BG6NqrtSBb9vJjsY=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -46611,7 +46647,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:18.410078",
+        "timestamp": "2026-05-31T07:36:22.888579",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -46827,7 +46863,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.873Z",
+                            "launch_date": "1999-12-09T18:30:00.048Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -46878,7 +46914,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 30,
+                                "stat_1y": 28,
                                 "stat_3y": 2,
                                 "stat_5y": 1,
                                 "stat_all": null,
@@ -46916,9 +46952,9 @@
                                 "cat_return5y": 10.666367762555277,
                                 "cat_return10y": 9.585706308421155,
                                 "cat_return_since_launch": null,
-                                "rank3m": 37,
-                                "rank6m": 29,
-                                "rank1yr": 30,
+                                "rank3m": 41,
+                                "rank6m": 33,
+                                "rank1yr": 28,
                                 "rank3yr": 2,
                                 "rank5yr": 1,
                                 "rank10yr": null,
@@ -51961,6 +51997,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.75,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.75,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -58669,7 +58711,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "EG8+vP7nniwv1oHWv0kZp7tOCMi7kSZSg+ThcQgm+b4=",
+                    "nonce": "TpyLLrpKSahHL4UVc0xSgvOA3+G2QEbDPXWICDkCNZY=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -58677,7 +58719,7 @@
                     }
                 },
                 {
-                    "nonce": "EG8+vP7nniwv1oHWv0kZp7tOCMi7kSZSg+ThcQgm+b4=",
+                    "nonce": "TpyLLrpKSahHL4UVc0xSgvOA3+G2QEbDPXWICDkCNZY=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -58689,7 +58731,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-multi-cap-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:18.842981",
+        "timestamp": "2026-05-31T07:36:23.544569",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -58889,7 +58931,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.494Z",
+                            "launch_date": "1999-12-09T18:30:00.211Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -58941,7 +58983,7 @@
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
                                 "stat_1y": 33,
-                                "stat_3y": 12,
+                                "stat_3y": 14,
                                 "stat_5y": null,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
@@ -58981,7 +59023,7 @@
                                 "rank3m": 36,
                                 "rank6m": 35,
                                 "rank1yr": 33,
-                                "rank3yr": 12,
+                                "rank3yr": 14,
                                 "rank5yr": null,
                                 "rank10yr": null,
                                 "index_return1y": null,
@@ -61115,6 +61157,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.82,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.82,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -67188,7 +67236,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hsbc_groww.png",
                                 "groww_scheme_code": "INF336L01QN5",
-                                "expense_ratio": "1.28",
+                                "expense_ratio": "0.6",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -67266,7 +67314,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/mahindra_groww.png",
                                 "groww_scheme_code": "INF174V01341",
-                                "expense_ratio": "1.21",
+                                "expense_ratio": "0.46",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -67367,7 +67415,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "BK6H1vvi2jfZuQ8J6iXotsUnmnomY5AJ/cyL0ywXL+Y=",
+                    "nonce": "//dWEkXkApItiBHi2zWPMI+5Y89e7nvw5X53rWpAFMQ=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -67375,7 +67423,7 @@
                     }
                 },
                 {
-                    "nonce": "BK6H1vvi2jfZuQ8J6iXotsUnmnomY5AJ/cyL0ywXL+Y=",
+                    "nonce": "//dWEkXkApItiBHi2zWPMI+5Y89e7nvw5X53rWpAFMQ=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -67387,7 +67435,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:19.280074",
+        "timestamp": "2026-05-31T07:36:24.172545",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -67553,7 +67601,7 @@
                         "benchmark": "CRISIL Short Duration Debt A-II Index",
                         "benchmark_name": "CRISIL Short Duration Debt A-II Index",
                         "aum": 15462.916,
-                        "expense_ratio": "0.43",
+                        "expense_ratio": "0.39",
                         "portfolio_turnover": null,
                         "super_category": "HDFC Short Term Debt Fund",
                         "sub_sub_category": "",
@@ -67592,8 +67640,8 @@
                                 "scheme_code": "119016",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "expense_analysis",
-                                "analysis_desc": "Lower expense ratio: 0.43%",
-                                "analysis_data": "0.43",
+                                "analysis_desc": "Lower expense ratio: 0.39%",
+                                "analysis_data": "0.39",
                                 "rating": null
                             },
                             {
@@ -67611,7 +67659,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.754Z",
+                            "launch_date": "1999-12-09T18:30:00.604Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -70107,6 +70155,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.39,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.43,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -76675,7 +76729,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/axis_groww.png",
                                 "groww_scheme_code": "INF846K01EI1",
-                                "expense_ratio": "0.39",
+                                "expense_ratio": "0.37",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -76753,7 +76807,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png",
                                 "groww_scheme_code": "INF179K01YM7",
-                                "expense_ratio": "0.43",
+                                "expense_ratio": "0.39",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -76815,7 +76869,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "CKE3juNfQmQz2TeahQd6yNcj4EFsJbxJoJh2coe+ZUY=",
+                    "nonce": "CwpyQ0pcFVfXh4VzciQgKkY2PabWq8kG+g9ltk5ai8Y=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -76823,7 +76877,7 @@
                     }
                 },
                 {
-                    "nonce": "CKE3juNfQmQz2TeahQd6yNcj4EFsJbxJoJh2coe+ZUY=",
+                    "nonce": "CwpyQ0pcFVfXh4VzciQgKkY2PabWq8kG+g9ltk5ai8Y=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -76835,7 +76889,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:19.965612",
+        "timestamp": "2026-05-31T07:36:24.667748",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -77051,7 +77105,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.551Z",
+                            "launch_date": "1999-12-09T18:30:00.959Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -77103,8 +77157,8 @@
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
                                 "stat_1y": 101,
-                                "stat_3y": 82,
-                                "stat_5y": 58,
+                                "stat_3y": 81,
+                                "stat_5y": 57,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
                             }
@@ -77140,11 +77194,11 @@
                                 "cat_return5y": 14.963175625273163,
                                 "cat_return10y": 13.15689160055596,
                                 "cat_return_since_launch": null,
-                                "rank3m": 115,
-                                "rank6m": 111,
+                                "rank3m": 116,
+                                "rank6m": 112,
                                 "rank1yr": 101,
-                                "rank3yr": 82,
-                                "rank5yr": 58,
+                                "rank3yr": 81,
+                                "rank5yr": 57,
                                 "rank10yr": 33,
                                 "index_return1y": null,
                                 "index_return3y": null,
@@ -78112,6 +78166,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.21,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.21,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -84641,7 +84701,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/invesco_groww.png",
                                 "groww_scheme_code": "INF205K01LB0",
-                                "expense_ratio": "1.14",
+                                "expense_ratio": "0.79",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -84820,7 +84880,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "ewGy5a+KJY4e+47Km+oXPif1QS+7M0BQzOa/KDDRi0U=",
+                    "nonce": "sYY/KAo/C1c09VtiX8YdO+YnBukjRemy1YRM/JK3LlQ=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -84828,7 +84888,7 @@
                     }
                 },
                 {
-                    "nonce": "ewGy5a+KJY4e+47Km+oXPif1QS+7M0BQzOa/KDDRi0U=",
+                    "nonce": "sYY/KAo/C1c09VtiX8YdO+YnBukjRemy1YRM/JK3LlQ=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -84840,7 +84900,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-pharma-and-healthcare-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:20.473212",
+        "timestamp": "2026-05-31T07:36:25.328229",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -85006,7 +85066,7 @@
                         "benchmark": "BSE Healthcare TRI",
                         "benchmark_name": "BSE Healthcare Total Return Index",
                         "aum": 2158.5771,
-                        "expense_ratio": "1.66",
+                        "expense_ratio": "0.92",
                         "portfolio_turnover": 38,
                         "super_category": "HDFC Pharma And Healthcare Fund",
                         "sub_sub_category": "Pharma",
@@ -85021,8 +85081,8 @@
                                 "scheme_code": "152082",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "expense_analysis",
-                                "analysis_desc": "Lower expense ratio: 1.66%",
-                                "analysis_data": "1.66",
+                                "analysis_desc": "Lower expense ratio: 0.92%",
+                                "analysis_data": "0.92",
                                 "rating": null
                             },
                             {
@@ -85040,7 +85100,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.145Z",
+                            "launch_date": "1999-12-09T18:30:00.912Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -86055,6 +86115,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.92,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 1.66,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -91619,7 +91685,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "4SGi4G4k/ivCpcWVp7XCxg+y4Fi9Eif4gy+5cDAJwCU=",
+                    "nonce": "GPsF+fZbzaMJ4fJ/Wamq9qVRRkzqFnhHVXEvmN+F6Qo=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -91627,7 +91693,7 @@
                     }
                 },
                 {
-                    "nonce": "4SGi4G4k/ivCpcWVp7XCxg+y4Fi9Eif4gy+5cDAJwCU=",
+                    "nonce": "GPsF+fZbzaMJ4fJ/Wamq9qVRRkzqFnhHVXEvmN+F6Qo=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -91639,7 +91705,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-liquid-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:20.897751",
+        "timestamp": "2026-05-31T07:36:25.979399",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -91855,7 +91921,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.366Z",
+                            "launch_date": "1999-12-09T18:30:00.881Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -91906,7 +91972,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 18,
+                                "stat_1y": 20,
                                 "stat_3y": 24,
                                 "stat_5y": 24,
                                 "stat_all": null,
@@ -91946,7 +92012,7 @@
                                 "cat_return_since_launch": null,
                                 "rank3m": 22,
                                 "rank6m": 16,
-                                "rank1yr": 18,
+                                "rank1yr": 20,
                                 "rank3yr": 24,
                                 "rank5yr": 24,
                                 "rank10yr": 21,
@@ -94166,8 +94232,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 5471.0997,
-                        "nav_date": "29-May-2026",
+                        "nav": 5472.9757,
+                        "nav_date": "31-May-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -94599,6 +94665,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.2,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.2,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -101307,7 +101379,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "/01R5SCvKC3DEdz5ITHBRxq6g+lqVDF+B3SR+i6kVCM=",
+                    "nonce": "3dMu8uUBuAWZJg7im+vHFZvb7LHb/CknjTkdrtCljME=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -101315,7 +101387,7 @@
                     }
                 },
                 {
-                    "nonce": "/01R5SCvKC3DEdz5ITHBRxq6g+lqVDF+B3SR+i6kVCM=",
+                    "nonce": "3dMu8uUBuAWZJg7im+vHFZvb7LHb/CknjTkdrtCljME=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -101327,7 +101399,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:21.535443",
+        "timestamp": "2026-05-31T07:36:26.736162",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -101493,7 +101565,7 @@
                         "benchmark": "NIFTY Smallcap 250 TRI",
                         "benchmark_name": "NIFTY Smallcap 250 Total Return Index",
                         "aum": 643.8434,
-                        "expense_ratio": "0.32",
+                        "expense_ratio": "0.28",
                         "portfolio_turnover": 37,
                         "super_category": "HDFC Nifty Smallcap 250 Index Fund",
                         "sub_sub_category": "",
@@ -101516,8 +101588,8 @@
                                 "scheme_code": "151727",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "expense_analysis",
-                                "analysis_desc": "Lower expense ratio: 0.32%",
-                                "analysis_data": "0.32",
+                                "analysis_desc": "Lower expense ratio: 0.28%",
+                                "analysis_data": "0.28",
                                 "rating": null
                             },
                             {
@@ -101551,7 +101623,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.378Z",
+                            "launch_date": "1999-12-09T18:30:00.218Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -101602,7 +101674,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 35,
+                                "stat_1y": 36,
                                 "stat_3y": 18,
                                 "stat_5y": null,
                                 "stat_all": null,
@@ -101642,7 +101714,7 @@
                                 "cat_return_since_launch": null,
                                 "rank3m": 39,
                                 "rank6m": 36,
-                                "rank1yr": 35,
+                                "rank1yr": 36,
                                 "rank3yr": 18,
                                 "rank5yr": null,
                                 "rank10yr": null,
@@ -105685,6 +105757,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.28,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.32,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -111572,7 +111650,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/escorts_groww.png",
                                 "groww_scheme_code": "INF966L01689",
-                                "expense_ratio": "0.73",
+                                "expense_ratio": "0.69",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -111611,7 +111689,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
                                 "groww_scheme_code": "INF903J01NK9",
-                                "expense_ratio": "1.43",
+                                "expense_ratio": "0.85",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -111673,7 +111751,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "uGt6JQ5fHGLi7mrrUuI0mSSe9F3wVD4CniGhdQwoCg8=",
+                    "nonce": "VwOlUh9feWy2PFlz1OQ1+Vh1SZo2Nz2qqFx0nxlUxoI=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -111681,7 +111759,7 @@
                     }
                 },
                 {
-                    "nonce": "uGt6JQ5fHGLi7mrrUuI0mSSe9F3wVD4CniGhdQwoCg8=",
+                    "nonce": "VwOlUh9feWy2PFlz1OQ1+Vh1SZo2Nz2qqFx0nxlUxoI=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -111693,7 +111771,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth",
-        "timestamp": "2026-05-30T06:39:22.131671",
+        "timestamp": "2026-05-31T07:36:27.335054",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -111859,7 +111937,7 @@
                         "benchmark": "GROWWEH",
                         "benchmark_name": "Groww Equity Hybrid",
                         "aum": 5887.053,
-                        "expense_ratio": "0.88",
+                        "expense_ratio": "0.85",
                         "portfolio_turnover": 23,
                         "super_category": "HDFC Multi-Asset Allocation Fund",
                         "sub_sub_category": "",
@@ -111890,8 +111968,8 @@
                                 "scheme_code": "119131",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "expense_analysis",
-                                "analysis_desc": "Lower expense ratio: 0.88%",
-                                "analysis_data": "0.88",
+                                "analysis_desc": "Lower expense ratio: 0.85%",
+                                "analysis_data": "0.85",
                                 "rating": null
                             }
                         ],
@@ -111901,7 +111979,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 937047.5946,
-                            "launch_date": "1999-12-09T18:30:00.800Z",
+                            "launch_date": "1999-12-09T18:30:00.200Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -111952,9 +112030,9 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 35,
-                                "stat_3y": 20,
-                                "stat_5y": 12,
+                                "stat_1y": 21,
+                                "stat_3y": 9,
+                                "stat_5y": 6,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
                             }
@@ -111990,11 +112068,11 @@
                                 "cat_return5y": 16.11038377499498,
                                 "cat_return10y": 11.50325061659585,
                                 "cat_return_since_launch": null,
-                                "rank3m": 28,
-                                "rank6m": 28,
-                                "rank1yr": 35,
-                                "rank3yr": 20,
-                                "rank5yr": 12,
+                                "rank3m": 47,
+                                "rank6m": 44,
+                                "rank1yr": 21,
+                                "rank3yr": 9,
+                                "rank5yr": 6,
                                 "rank10yr": null,
                                 "index_return1y": null,
                                 "index_return3y": null,
@@ -114897,6 +114975,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.85,
+                                "as_on_date": "2026-05-28T00:00:00",
+                                "frequency": "Daily",
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.88,
                                 "as_on_date": "2026-05-27T00:00:00",
@@ -121426,7 +121510,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/escorts_groww.png",
                                 "groww_scheme_code": "INF966L01580",
-                                "expense_ratio": "2.11",
+                                "expense_ratio": "0.61",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -121443,8 +121527,8 @@
                                 "sub_sub_category": "",
                                 "aum": 14737.58447897,
                                 "mean_return": null,
-                                "return3y": 21.77,
-                                "return1y": 18.27,
+                                "return3y": 21.45,
+                                "return1y": 17.5,
                                 "min_investment": 5000,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -121521,8 +121605,8 @@
                                 "sub_sub_category": "",
                                 "aum": 83547.35307245,
                                 "mean_return": 12.6,
-                                "return3y": 18.13,
-                                "return1y": 8.75,
+                                "return3y": 17.78,
+                                "return1y": 7.87,
                                 "min_investment": 5000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -121582,7 +121666,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png",
                                 "groww_scheme_code": "INF179K01XW8",
-                                "expense_ratio": "0.88",
+                                "expense_ratio": "0.85",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -121605,7 +121689,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "LBE0JPqGhxJZotRY3iL25pTnr662MD09PTXHmh0sFY8=",
+                    "nonce": "1ILOkrNC+3rZte1yIhi+MiScH9x03AajGrTuVcZJHOc=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -121613,7 +121697,7 @@
                     }
                 },
                 {
-                    "nonce": "LBE0JPqGhxJZotRY3iL25pTnr662MD09PTXHmh0sFY8=",
+                    "nonce": "1ILOkrNC+3rZte1yIhi+MiScH9x03AajGrTuVcZJHOc=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
