@@ -1,7 +1,7 @@
 [
     {
         "Fund Name": "HDFC Mid Cap Fund Direct Growth",
-        "NAV": 230.008,
+        "NAV": 230.532,
         "Min SIP Amount": 100,
         "Fund Size": 100858.3136,
         "Expense Ratio": "0.75",
@@ -11,7 +11,7 @@
     },
     {
         "Fund Name": "HDFC Silver ETF FoF Direct Growth",
-        "NAV": 35.9302,
+        "NAV": 36.12,
         "Min SIP Amount": 100,
         "Fund Size": 4326.5606,
         "Expense Ratio": "0.22",
@@ -21,7 +21,7 @@
     },
     {
         "Fund Name": "HDFC Flexi Cap Direct Plan Growth",
-        "NAV": 2227.484,
+        "NAV": 2236.681,
         "Min SIP Amount": 100,
         "Fund Size": 106495.6311,
         "Expense Ratio": "0.77",
@@ -31,17 +31,17 @@
     },
     {
         "Fund Name": "HDFC Defence Fund Direct Growth",
-        "NAV": 29.97,
+        "NAV": 30.03,
         "Min SIP Amount": 100,
         "Fund Size": 10529.2483,
-        "Expense Ratio": "0.86",
+        "Expense Ratio": "0.87",
         "Rating": null,
         "Risk": "Very High",
         "Category": "Equity"
     },
     {
         "Fund Name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-        "NAV": 43.7747,
+        "NAV": 43.9315,
         "Min SIP Amount": 100,
         "Fund Size": 11019.4542,
         "Expense Ratio": "0.2",
@@ -51,7 +51,7 @@
     },
     {
         "Fund Name": "HDFC Small Cap Fund Direct Growth",
-        "NAV": 159.603,
+        "NAV": 160.349,
         "Min SIP Amount": 100,
         "Fund Size": 40416.8045,
         "Expense Ratio": "0.76",
@@ -61,7 +61,7 @@
     },
     {
         "Fund Name": "HDFC Balanced Advantage Fund Direct Growth",
-        "NAV": 566.922,
+        "NAV": 568.5,
         "Min SIP Amount": 100,
         "Fund Size": 106456.1559,
         "Expense Ratio": "0.77",
@@ -71,7 +71,7 @@
     },
     {
         "Fund Name": "HDFC Multi Cap Fund Direct Growth",
-        "NAV": 19.769,
+        "NAV": 19.863,
         "Min SIP Amount": 100,
         "Fund Size": 20216.8801,
         "Expense Ratio": "0.94",
@@ -81,7 +81,7 @@
     },
     {
         "Fund Name": "HDFC Short Term Debt Fund Direct Plan Growth",
-        "NAV": 35.1791,
+        "NAV": 35.1985,
         "Min SIP Amount": 100,
         "Fund Size": 15008.2598,
         "Expense Ratio": "0.39",
@@ -91,7 +91,7 @@
     },
     {
         "Fund Name": "HDFC BSE Sensex Index Fund Direct Growth",
-        "NAV": 736.2346,
+        "NAV": 737.5702,
         "Min SIP Amount": 100,
         "Fund Size": 8484.7203,
         "Expense Ratio": "0.23",
@@ -101,7 +101,7 @@
     },
     {
         "Fund Name": "HDFC Pharma And Healthcare Fund Direct Growth",
-        "NAV": 21.49,
+        "NAV": 21.669,
         "Min SIP Amount": 100,
         "Fund Size": 2611.3327,
         "Expense Ratio": "1.12",
@@ -111,7 +111,7 @@
     },
     {
         "Fund Name": "HDFC Liquid Direct Plan Growth",
-        "NAV": 5520.1784,
+        "NAV": 5520.8545,
         "Min SIP Amount": 100,
         "Fund Size": 65878.2502,
         "Expense Ratio": "0.2",
@@ -121,7 +121,7 @@
     },
     {
         "Fund Name": "HDFC Nifty Smallcap 250 Index Fund Direct Growth",
-        "NAV": 19.5733,
+        "NAV": 19.7082,
         "Min SIP Amount": 100,
         "Fund Size": 701.6277,
         "Expense Ratio": "0.33",
@@ -131,7 +131,7 @@
     },
     {
         "Fund Name": "HDFC Multi Asset Allocation Fund Direct Growth",
-        "NAV": 83.782,
+        "NAV": 83.955,
         "Min SIP Amount": 100,
         "Fund Size": 5881.4078,
         "Expense Ratio": "1.03",
