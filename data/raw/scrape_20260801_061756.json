@@ -1,7 +1,7 @@
 [
     {
         "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:03.766662",
+        "timestamp": "2026-08-01T06:17:49.457193",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -217,7 +217,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.885Z",
+                            "launch_date": "1999-12-09T18:30:00.077Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -252,9 +252,9 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 8.39,
-                                "stat_3y": 19.73,
-                                "stat_5y": 20.41,
+                                "stat_1y": 9.34,
+                                "stat_3y": 19.53,
+                                "stat_5y": 20.47,
                                 "stat_all": 19.3,
                                 "title": "Fund Returns"
                             },
@@ -268,7 +268,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 19,
+                                "stat_1y": 18,
                                 "stat_3y": 13,
                                 "stat_5y": 3,
                                 "stat_all": null,
@@ -1426,8 +1426,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 232.749,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 233.488,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -1836,6 +1836,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.75,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.75,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -10698,8 +10704,8 @@
                                 "sub_sub_category": "",
                                 "aum": 6932.98636303,
                                 "mean_return": null,
-                                "return3y": 23.71,
-                                "return1y": 14.99,
+                                "return3y": 23.44,
+                                "return1y": 15.7,
                                 "min_investment": 500,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -10737,8 +10743,8 @@
                                 "sub_sub_category": "",
                                 "aum": 17748.3229,
                                 "mean_return": 8.89,
-                                "return3y": 23.32,
-                                "return1y": 9.55,
+                                "return3y": 23.15,
+                                "return1y": 10.57,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -10770,14 +10776,53 @@
                             {
                                 "id": null,
                                 "scheme_search": null,
+                                "search_id": "nippon-india-growth-mid-cap-fund-direct-growth",
+                                "category": "Equity",
+                                "sub_category": "Mid Cap",
+                                "sub_sub_category": "",
+                                "aum": 49169.103,
+                                "mean_return": 15.99,
+                                "return3y": 21.4,
+                                "return1y": 10.56,
+                                "min_investment": 100,
+                                "groww_rating": 5,
+                                "risk_rating": 6,
+                                "super_category": "Nippon India Growth Mid Cap Fund",
+                                "scheme_name": "Nippon India Growth Mid Cap Fund Direct Growth",
+                                "fund_manager": "Manish Gunwani",
+                                "fund_house": "Nippon India Mutual Fund",
+                                "scheme_code": "118668",
+                                "direct_scheme_code": "118668",
+                                "regular_search_id": "reliance-growth-growth",
+                                "launch_date": "2012-12-31T18:30:00.000Z",
+                                "risk": "Very High",
+                                "available_for_investment": true,
+                                "prime_investment_allowed": null,
+                                "min_sip_investment": 100,
+                                "sip_allowed": true,
+                                "plan_type": "Direct",
+                                "scheme_type": "Growth",
+                                "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
+                                "groww_scheme_code": "INF204K01E54",
+                                "expense_ratio": "0.8",
+                                "swp_frequencies": null,
+                                "tag": null,
+                                "sub_tag": null,
+                                "note_text": null,
+                                "deep_link": null,
+                                "fund_name": "Nippon India Growth Mid Cap Fund"
+                            },
+                            {
+                                "id": null,
+                                "scheme_search": null,
                                 "search_id": "sundaram-select-midcap-direct-growth",
                                 "category": "Equity",
                                 "sub_category": "Mid Cap",
                                 "sub_sub_category": "",
                                 "aum": 14026.06687061,
                                 "mean_return": 3.13,
-                                "return3y": 21.64,
-                                "return1y": 10.22,
+                                "return3y": 21.31,
+                                "return1y": 10.89,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -10809,53 +10854,14 @@
                             {
                                 "id": null,
                                 "scheme_search": null,
-                                "search_id": "nippon-india-growth-mid-cap-fund-direct-growth",
-                                "category": "Equity",
-                                "sub_category": "Mid Cap",
-                                "sub_sub_category": "",
-                                "aum": 49169.103,
-                                "mean_return": 15.99,
-                                "return3y": 21.61,
-                                "return1y": 9.64,
-                                "min_investment": 100,
-                                "groww_rating": 5,
-                                "risk_rating": 6,
-                                "super_category": "Nippon India Growth Mid Cap Fund",
-                                "scheme_name": "Nippon India Growth Mid Cap Fund Direct Growth",
-                                "fund_manager": "Manish Gunwani",
-                                "fund_house": "Nippon India Mutual Fund",
-                                "scheme_code": "118668",
-                                "direct_scheme_code": "118668",
-                                "regular_search_id": "reliance-growth-growth",
-                                "launch_date": "2012-12-31T18:30:00.000Z",
-                                "risk": "Very High",
-                                "available_for_investment": true,
-                                "prime_investment_allowed": null,
-                                "min_sip_investment": 100,
-                                "sip_allowed": true,
-                                "plan_type": "Direct",
-                                "scheme_type": "Growth",
-                                "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
-                                "groww_scheme_code": "INF204K01E54",
-                                "expense_ratio": "0.81",
-                                "swp_frequencies": null,
-                                "tag": null,
-                                "sub_tag": null,
-                                "note_text": null,
-                                "deep_link": null,
-                                "fund_name": "Nippon India Growth Mid Cap Fund"
-                            },
-                            {
-                                "id": null,
-                                "scheme_search": null,
                                 "search_id": "hdfc-mid-cap-fund-direct-growth",
                                 "category": "Equity",
                                 "sub_category": "Mid Cap",
                                 "sub_sub_category": "",
                                 "aum": 100858.3136,
                                 "mean_return": 5.62,
-                                "return3y": 19.73,
-                                "return1y": 8.39,
+                                "return3y": 19.53,
+                                "return1y": 9.34,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -10892,14 +10898,14 @@
             "query": {
                 "searchId": "hdfc-mid-cap-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "9J8AlOfLh98YBciO4ukdlexGK6pNpXW86xd4G5tftwQ=",
+                    "nonce": "d6R+EtjBisbqbjQmxDIK+Rz2N1T7blwTrxgfUWnQi5U=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -10907,7 +10913,7 @@
                     }
                 },
                 {
-                    "nonce": "9J8AlOfLh98YBciO4ukdlexGK6pNpXW86xd4G5tftwQ=",
+                    "nonce": "d6R+EtjBisbqbjQmxDIK+Rz2N1T7blwTrxgfUWnQi5U=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -10919,7 +10925,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-        "timestamp": "2026-07-31T06:34:04.236825",
+        "timestamp": "2026-08-01T06:17:49.817769",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -11119,7 +11125,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.952Z",
+                            "launch_date": "1999-12-09T18:30:00.099Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -11154,8 +11160,8 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 86.12,
-                                "stat_3y": 41.14,
+                                "stat_1y": 91.56,
+                                "stat_3y": 41.07,
                                 "stat_5y": null,
                                 "stat_all": null,
                                 "title": "Fund Returns"
@@ -11170,7 +11176,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 7,
+                                "stat_1y": 9,
                                 "stat_3y": 5,
                                 "stat_5y": null,
                                 "stat_all": null,
@@ -11208,9 +11214,9 @@
                                 "cat_return5y": null,
                                 "cat_return10y": null,
                                 "cat_return_since_launch": null,
-                                "rank3m": 14,
-                                "rank6m": 10,
-                                "rank1yr": 9,
+                                "rank3m": 16,
+                                "rank6m": 11,
+                                "rank1yr": 10,
                                 "rank3yr": 5,
                                 "rank5yr": null,
                                 "rank10yr": null,
@@ -11278,8 +11284,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 35.6906,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 35.6749,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -11791,6 +11797,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.22,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.22,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -18989,14 +19001,14 @@
             "query": {
                 "searchId": "hdfc-silver-etf-fof-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "GP6PnyO1QHX7KAnq2Jep9X2c8yDQu6WDrZ4IbTB/+wI=",
+                    "nonce": "A0gfKTsKaLHvz4e9b4pDXr+l9m4YnVq+fj8Y9qdpzT4=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -19004,7 +19016,7 @@
                     }
                 },
                 {
-                    "nonce": "GP6PnyO1QHX7KAnq2Jep9X2c8yDQu6WDrZ4IbTB/+wI=",
+                    "nonce": "A0gfKTsKaLHvz4e9b4pDXr+l9m4YnVq+fj8Y9qdpzT4=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -19016,7 +19028,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:04.624936",
+        "timestamp": "2026-08-01T06:17:50.209097",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -19224,7 +19236,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.382Z",
+                            "launch_date": "1999-12-09T18:30:00.326Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -19259,8 +19271,8 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 5.02,
-                                "stat_3y": 17.25,
+                                "stat_1y": 5.29,
+                                "stat_3y": 17.04,
                                 "stat_5y": 18.76,
                                 "stat_all": 14.13,
                                 "title": "Fund Returns"
@@ -19275,7 +19287,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 22,
+                                "stat_1y": 21,
                                 "stat_3y": 8,
                                 "stat_5y": 2,
                                 "stat_all": null,
@@ -19313,12 +19325,12 @@
                                 "cat_return5y": 15.612299390110422,
                                 "cat_return10y": 13.476536766511122,
                                 "cat_return_since_launch": null,
-                                "rank3m": 23,
-                                "rank6m": 58,
-                                "rank1yr": 21,
-                                "rank3yr": 8,
-                                "rank5yr": 2,
-                                "rank10yr": 2,
+                                "rank3m": 24,
+                                "rank6m": 61,
+                                "rank1yr": 22,
+                                "rank3yr": 9,
+                                "rank5yr": 3,
+                                "rank10yr": 3,
                                 "index_return1y": null,
                                 "index_return3y": null,
                                 "index_return5y": null,
@@ -20419,8 +20431,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 2265.521,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 2267.177,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -20824,6 +20836,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.74,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.74,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -29680,8 +29698,8 @@
                                 "sub_sub_category": "",
                                 "aum": 2615.048,
                                 "mean_return": null,
-                                "return3y": 20.72,
-                                "return1y": 10.87,
+                                "return3y": 20.39,
+                                "return1y": 12.15,
                                 "min_investment": 5000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -29719,8 +29737,8 @@
                                 "sub_sub_category": "",
                                 "aum": 1412.22250473,
                                 "mean_return": null,
-                                "return3y": 18.79,
-                                "return1y": 9.64,
+                                "return3y": 18.87,
+                                "return1y": 11.16,
                                 "min_investment": 5000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -29758,8 +29776,8 @@
                                 "sub_sub_category": "",
                                 "aum": 106495.6311,
                                 "mean_return": 11.26,
-                                "return3y": 17.25,
-                                "return1y": 5.02,
+                                "return3y": 17.04,
+                                "return1y": 5.29,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -29797,8 +29815,8 @@
                                 "sub_sub_category": "",
                                 "aum": 143388.43433165,
                                 "mean_return": 14.11,
-                                "return3y": 14.04,
-                                "return1y": -0.96,
+                                "return3y": 14.03,
+                                "return1y": -0.89,
                                 "min_investment": 1000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -29836,8 +29854,8 @@
                                 "sub_sub_category": "",
                                 "aum": 19274.1358734,
                                 "mean_return": 7.11,
-                                "return3y": 13.32,
-                                "return1y": -1.05,
+                                "return3y": 13.19,
+                                "return1y": -0.43,
                                 "min_investment": 5000,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -29874,14 +29892,14 @@
             "query": {
                 "searchId": "hdfc-equity-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "OnqU4zY5L4ywfWy/HGqS6eMJ3G5wYRTgGQfShdU64pk=",
+                    "nonce": "WXh+jleBXCDJZ+TymIoyBdDxxfgf77dHcKA0S/wIceY=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -29889,7 +29907,7 @@
                     }
                 },
                 {
-                    "nonce": "OnqU4zY5L4ywfWy/HGqS6eMJ3G5wYRTgGQfShdU64pk=",
+                    "nonce": "WXh+jleBXCDJZ+TymIoyBdDxxfgf77dHcKA0S/wIceY=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -29901,7 +29919,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:05.008654",
+        "timestamp": "2026-08-01T06:17:50.582481",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -30109,7 +30127,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.949Z",
+                            "launch_date": "1999-12-09T18:30:00.294Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -30144,8 +30162,8 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 25.3,
-                                "stat_3y": 39.23,
+                                "stat_1y": 28.14,
+                                "stat_3y": 39.41,
                                 "stat_5y": null,
                                 "stat_all": null,
                                 "title": "Fund Returns"
@@ -30198,7 +30216,7 @@
                                 "cat_return5y": 17.871031512501187,
                                 "cat_return10y": 13.5931085900705,
                                 "cat_return_since_launch": null,
-                                "rank3m": 8,
+                                "rank3m": 9,
                                 "rank6m": 3,
                                 "rank1yr": 1,
                                 "rank3yr": 1,
@@ -30562,8 +30580,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 29.815,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 30.279,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -31003,6 +31021,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.9,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.9,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -37081,14 +37105,14 @@
             "query": {
                 "searchId": "hdfc-defence-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "aeHnIoEtW4nyqF9FOULv52bcai+nICuofvgZgOs5G9w=",
+                    "nonce": "r0f5L/5fB64F5lUea8yKVjkv/95rehEAe2Q+DcuQiH8=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -37096,7 +37120,7 @@
                     }
                 },
                 {
-                    "nonce": "aeHnIoEtW4nyqF9FOULv52bcai+nICuofvgZgOs5G9w=",
+                    "nonce": "r0f5L/5fB64F5lUea8yKVjkv/95rehEAe2Q+DcuQiH8=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -37108,7 +37132,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-        "timestamp": "2026-07-31T06:34:05.465513",
+        "timestamp": "2026-08-01T06:17:51.038411",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -37289,7 +37313,7 @@
                                 "scheme_code": "119132",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "p_return_analysis",
-                                "analysis_desc": "5Y annualised returns higher than category average by 1.9%",
+                                "analysis_desc": "5Y annualised returns higher than category average by 1.83%",
                                 "analysis_data": "p_return_analysis",
                                 "rating": null
                             },
@@ -37316,7 +37340,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.350Z",
+                            "launch_date": "1999-12-09T18:30:00.561Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -37351,9 +37375,9 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 42.09,
-                                "stat_3y": 32.28,
-                                "stat_5y": 22.85,
+                                "stat_1y": 42.43,
+                                "stat_3y": 32.16,
+                                "stat_5y": 22.78,
                                 "stat_all": 10.83,
                                 "title": "Fund Returns"
                             },
@@ -37367,9 +37391,9 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 7,
-                                "stat_3y": 7,
-                                "stat_5y": 6,
+                                "stat_1y": 9,
+                                "stat_3y": 6,
+                                "stat_5y": 5,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
                             }
@@ -37405,9 +37429,9 @@
                                 "cat_return5y": 20.95384843351483,
                                 "cat_return10y": 17.040816927548995,
                                 "cat_return_since_launch": null,
-                                "rank3m": 14,
+                                "rank3m": 16,
                                 "rank6m": 7,
-                                "rank1yr": 9,
+                                "rank1yr": 10,
                                 "rank3yr": 6,
                                 "rank5yr": 5,
                                 "rank10yr": 3,
@@ -37475,8 +37499,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 44.2677,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 44.1725,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -37981,6 +38005,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.2,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.2,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -46855,14 +46885,14 @@
             "query": {
                 "searchId": "hdfc-gold-etf-fund-of-fund-direct-plan-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "6nWDwfr2nyxANZMRzZTv8IOfg2BHrkg+gH/hNpq2z6A=",
+                    "nonce": "EeZQru6izb9w7ArH7g1fhXyUS3BrlEZp1NZpCAVjbmg=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -46870,7 +46900,7 @@
                     }
                 },
                 {
-                    "nonce": "6nWDwfr2nyxANZMRzZTv8IOfg2BHrkg+gH/hNpq2z6A=",
+                    "nonce": "EeZQru6izb9w7ArH7g1fhXyUS3BrlEZp1NZpCAVjbmg=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -46882,7 +46912,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:05.868593",
+        "timestamp": "2026-08-01T06:17:51.452421",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -47048,7 +47078,7 @@
                         "benchmark": "BSE 250 SmallCap TRI",
                         "benchmark_name": "BSE 250 SmallCap Total Return Index",
                         "aum": 40416.8045,
-                        "expense_ratio": "0.75",
+                        "expense_ratio": "0.76",
                         "portfolio_turnover": 6,
                         "super_category": "HDFC Small Cap Fund",
                         "sub_sub_category": "",
@@ -47071,8 +47101,8 @@
                                 "scheme_code": "130503",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "expense_analysis",
-                                "analysis_desc": "Lower expense ratio: 0.75%",
-                                "analysis_data": "0.75",
+                                "analysis_desc": "Lower expense ratio: 0.76%",
+                                "analysis_data": "0.76",
                                 "rating": null
                             },
                             {
@@ -47090,7 +47120,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.966Z",
+                            "launch_date": "1999-12-09T18:30:00.407Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -47125,9 +47155,9 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": -0.91,
-                                "stat_3y": 12.94,
-                                "stat_5y": 15.65,
+                                "stat_1y": 0.02,
+                                "stat_3y": 12.64,
+                                "stat_5y": 15.75,
                                 "stat_all": 16.3,
                                 "title": "Fund Returns"
                             },
@@ -48397,8 +48427,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 160.046,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 160.752,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -48828,6 +48858,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.76,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.75,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -57690,8 +57726,8 @@
                                 "sub_sub_category": "",
                                 "aum": 28466.1785,
                                 "mean_return": 0,
-                                "return3y": 27.21,
-                                "return1y": 7.95,
+                                "return3y": 27.03,
+                                "return1y": 9.37,
                                 "min_investment": 1000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -57729,8 +57765,8 @@
                                 "sub_sub_category": "",
                                 "aum": 13384.8804,
                                 "mean_return": 3.01,
-                                "return3y": 23.88,
-                                "return1y": 13.88,
+                                "return3y": 23.55,
+                                "return1y": 14.88,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -57768,8 +57804,8 @@
                                 "sub_sub_category": "",
                                 "aum": 3871.80037037,
                                 "mean_return": -0.65,
-                                "return3y": 18.28,
-                                "return1y": 10.44,
+                                "return3y": 18.09,
+                                "return1y": 12.04,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -57807,8 +57843,8 @@
                                 "sub_sub_category": "",
                                 "aum": 78407.0325,
                                 "mean_return": 8.7,
-                                "return3y": 16.86,
-                                "return1y": 5.64,
+                                "return3y": 16.74,
+                                "return1y": 6.99,
                                 "min_investment": 5000,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -57846,8 +57882,8 @@
                                 "sub_sub_category": "",
                                 "aum": 29393.793798,
                                 "mean_return": 17.55,
-                                "return3y": 16.85,
-                                "return1y": 7.11,
+                                "return3y": 16.5,
+                                "return1y": 7.81,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -57884,14 +57920,14 @@
             "query": {
                 "searchId": "hdfc-small-cap-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "GaXHLYVzgijHZmTrOEpJSfbzDKcx70h/+VI03wfSQ+w=",
+                    "nonce": "2xQB2d/iqCqscq9qmLYOk33otDBjl/N+/Fe1uWzCGug=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -57899,7 +57935,7 @@
                     }
                 },
                 {
-                    "nonce": "GaXHLYVzgijHZmTrOEpJSfbzDKcx70h/+VI03wfSQ+w=",
+                    "nonce": "2xQB2d/iqCqscq9qmLYOk33otDBjl/N+/Fe1uWzCGug=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -57911,7 +57947,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:06.396665",
+        "timestamp": "2026-08-01T06:17:52.182758",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -58100,7 +58136,7 @@
                                 "scheme_code": "118968",
                                 "analysis_type": "CONS",
                                 "analysis_subject": "c_return_analysis",
-                                "analysis_desc": "1Y annualised returns lower than category average by 2.44%",
+                                "analysis_desc": "1Y annualised returns lower than category average by 1.77%",
                                 "analysis_data": "c_return_analysis",
                                 "rating": null
                             },
@@ -58127,7 +58163,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.487Z",
+                            "launch_date": "1999-12-09T18:30:00.899Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -58162,9 +58198,9 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 2.15,
-                                "stat_3y": 13.5,
-                                "stat_5y": 15.57,
+                                "stat_1y": 2.82,
+                                "stat_3y": 13.33,
+                                "stat_5y": 15.63,
                                 "stat_all": 12.89,
                                 "title": "Fund Returns"
                             },
@@ -58216,9 +58252,9 @@
                                 "cat_return5y": 10.666367762555277,
                                 "cat_return10y": 9.585706308421155,
                                 "cat_return_since_launch": null,
-                                "rank3m": 31,
-                                "rank6m": 33,
-                                "rank1yr": 24,
+                                "rank3m": 35,
+                                "rank6m": 37,
+                                "rank1yr": 25,
                                 "rank3yr": 2,
                                 "rank5yr": 1,
                                 "rank10yr": null,
@@ -62878,8 +62914,8 @@
                                 "stock_search_id": "ags-transact-technologies"
                             }
                         ],
-                        "nav": 570.779,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 572.345,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -63798,6 +63834,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.77,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.77,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -72654,8 +72696,8 @@
                                 "sub_sub_category": "",
                                 "aum": 905.2148,
                                 "mean_return": null,
-                                "return3y": 15.2,
-                                "return1y": 0.38,
+                                "return3y": 15.06,
+                                "return1y": 0.9,
                                 "min_investment": 5000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -72693,8 +72735,8 @@
                                 "sub_sub_category": "",
                                 "aum": 106456.1559,
                                 "mean_return": 17.51,
-                                "return3y": 13.5,
-                                "return1y": 2.15,
+                                "return3y": 13.33,
+                                "return1y": 2.82,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -72732,8 +72774,8 @@
                                 "sub_sub_category": "",
                                 "aum": 72486.28180447,
                                 "mean_return": 9.24,
-                                "return3y": 12.42,
-                                "return1y": 7.48,
+                                "return3y": 12.47,
+                                "return1y": 8.2,
                                 "min_investment": 500,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -72754,7 +72796,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/icici_groww.png",
                                 "groww_scheme_code": "INF109K012B0",
-                                "expense_ratio": "1.06",
+                                "expense_ratio": "1.05",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -72771,8 +72813,8 @@
                                 "sub_sub_category": "",
                                 "aum": 9796.3355301,
                                 "mean_return": 9.39,
-                                "return3y": 11.84,
-                                "return1y": 5.71,
+                                "return3y": 11.74,
+                                "return1y": 6.01,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -72810,8 +72852,8 @@
                                 "sub_sub_category": "",
                                 "aum": 3749.1265,
                                 "mean_return": 7.24,
-                                "return3y": 11.39,
-                                "return1y": 5.6,
+                                "return3y": 11.37,
+                                "return1y": 5.81,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 4,
@@ -72848,14 +72890,14 @@
             "query": {
                 "searchId": "hdfc-balanced-advantage-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "uUSkqae3m6pk4H+De29VuwZdGSpslYmsRgGrcUXZMgo=",
+                    "nonce": "qj4yZOH7obRa0dDlVcFo3CLTBToSlohKa7xUZ7fBh9s=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -72863,7 +72905,7 @@
                     }
                 },
                 {
-                    "nonce": "uUSkqae3m6pk4H+De29VuwZdGSpslYmsRgGrcUXZMgo=",
+                    "nonce": "qj4yZOH7obRa0dDlVcFo3CLTBToSlohKa7xUZ7fBh9s=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -72875,7 +72917,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-multi-cap-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:06.969680",
+        "timestamp": "2026-08-01T06:17:52.622490",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -73062,9 +73104,17 @@
                             },
                             {
                                 "scheme_code": "149368",
+                                "analysis_type": "PROS",
+                                "analysis_subject": "p_return_analysis",
+                                "analysis_desc": "1Y annualised returns higher than category average by 0.59%",
+                                "analysis_data": "p_return_analysis",
+                                "rating": null
+                            },
+                            {
+                                "scheme_code": "149368",
                                 "analysis_type": "CONS",
                                 "analysis_subject": "c_return_analysis",
-                                "analysis_desc": "Consistently lower annualised returns than category average for the past 1Y and 3Y",
+                                "analysis_desc": "3Y annualised returns lower than category average by 4.81%",
                                 "analysis_data": "c_return_analysis",
                                 "rating": null
                             }
@@ -73075,7 +73125,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.713Z",
+                            "launch_date": "1999-12-09T18:30:00.250Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -73110,8 +73160,8 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 0.55,
-                                "stat_3y": 14,
+                                "stat_1y": 1.52,
+                                "stat_3y": 13.73,
                                 "stat_5y": null,
                                 "stat_all": null,
                                 "title": "Fund Returns"
@@ -74928,8 +74978,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 19.888,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 19.944,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -75333,6 +75383,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.94,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.94,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -84195,8 +84251,8 @@
                                 "sub_sub_category": "",
                                 "aum": 5914.0042,
                                 "mean_return": null,
-                                "return3y": 19.8,
-                                "return1y": 7.38,
+                                "return3y": 19.57,
+                                "return1y": 8.35,
                                 "min_investment": 5000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -84234,8 +84290,8 @@
                                 "sub_sub_category": "",
                                 "aum": 28074.1904,
                                 "mean_return": null,
-                                "return3y": 18.96,
-                                "return1y": 9.07,
+                                "return3y": 18.68,
+                                "return1y": 9.68,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -84256,7 +84312,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/kotak_groww.png",
                                 "groww_scheme_code": "INF174KA1HV3",
-                                "expense_ratio": "0.6768",
+                                "expense_ratio": "0.68",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -84273,8 +84329,8 @@
                                 "sub_sub_category": "",
                                 "aum": 6926.0154,
                                 "mean_return": 7.59,
-                                "return3y": 18.51,
-                                "return1y": 9.04,
+                                "return3y": 18.42,
+                                "return1y": 10.22,
                                 "min_investment": 1000,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -84312,8 +84368,8 @@
                                 "sub_sub_category": "",
                                 "aum": 18193.88662158,
                                 "mean_return": 9.1,
-                                "return3y": 17.43,
-                                "return1y": 7.4,
+                                "return3y": 17.4,
+                                "return1y": 8.96,
                                 "min_investment": 5000,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -84351,8 +84407,8 @@
                                 "sub_sub_category": "",
                                 "aum": 54584.5819,
                                 "mean_return": 10.77,
-                                "return3y": 15.65,
-                                "return1y": 1.39,
+                                "return3y": 15.26,
+                                "return1y": 1.99,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -84389,14 +84445,14 @@
             "query": {
                 "searchId": "hdfc-multi-cap-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "VSBOkENxY9/syKmMu5HIZ9slJrodJFZ7ZzqNk//pipo=",
+                    "nonce": "VFYUH0x/XfpcY0jDk3ZkmHe3nwxNa+6C0d6hEvKY43E=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -84404,7 +84460,7 @@
                     }
                 },
                 {
-                    "nonce": "VSBOkENxY9/syKmMu5HIZ9slJrodJFZ7ZzqNk//pipo=",
+                    "nonce": "VFYUH0x/XfpcY0jDk3ZkmHe3nwxNa+6C0d6hEvKY43E=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -84416,7 +84472,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:07.581421",
+        "timestamp": "2026-08-01T06:17:53.363549",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -84605,7 +84661,7 @@
                                 "scheme_code": "119016",
                                 "analysis_type": "CONS",
                                 "analysis_subject": "c_return_analysis",
-                                "analysis_desc": "1Y annualised returns lower than category average by 1.59%",
+                                "analysis_desc": "1Y annualised returns lower than category average by 1.56%",
                                 "analysis_data": "c_return_analysis",
                                 "rating": null
                             },
@@ -84640,7 +84696,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.467Z",
+                            "launch_date": "1999-12-09T18:30:00.703Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -84675,8 +84731,8 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 5.79,
-                                "stat_3y": 7.68,
+                                "stat_1y": 5.82,
+                                "stat_3y": 7.7,
                                 "stat_5y": 6.71,
                                 "stat_all": 8.79,
                                 "title": "Fund Returns"
@@ -86857,8 +86913,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 35.2917,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 35.3099,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -87336,6 +87392,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.39,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.39,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -96186,8 +96248,8 @@
                                 "sub_sub_category": "",
                                 "aum": 19174.68349067,
                                 "mean_return": 7.64,
-                                "return3y": 7.98,
-                                "return1y": 6.34,
+                                "return3y": 8,
+                                "return1y": 6.36,
                                 "min_investment": 5000,
                                 "groww_rating": 4,
                                 "risk_rating": 3,
@@ -96225,8 +96287,8 @@
                                 "sub_sub_category": "",
                                 "aum": 8183.493501,
                                 "mean_return": 7.57,
-                                "return3y": 7.88,
-                                "return1y": 6.05,
+                                "return3y": 7.9,
+                                "return1y": 6.06,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 3,
@@ -96264,8 +96326,8 @@
                                 "sub_sub_category": "",
                                 "aum": 7039.5598,
                                 "mean_return": 7.18,
-                                "return3y": 7.83,
-                                "return1y": 5.84,
+                                "return3y": 7.85,
+                                "return1y": 5.86,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 3,
@@ -96303,8 +96365,8 @@
                                 "sub_sub_category": "",
                                 "aum": 8889.0464,
                                 "mean_return": 7.89,
-                                "return3y": 7.79,
-                                "return1y": 5.87,
+                                "return3y": 7.81,
+                                "return1y": 5.93,
                                 "min_investment": 1000,
                                 "groww_rating": 4,
                                 "risk_rating": 7,
@@ -96342,8 +96404,8 @@
                                 "sub_sub_category": "",
                                 "aum": 15008.2598,
                                 "mean_return": 7.38,
-                                "return3y": 7.68,
-                                "return1y": 5.79,
+                                "return3y": 7.7,
+                                "return1y": 5.82,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 3,
@@ -96380,14 +96442,14 @@
             "query": {
                 "searchId": "hdfc-short-term-opportunities-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "kwzh1UDZMCYvchSiuCk/2JCYIwGaS30WBesLfcmlN+Q=",
+                    "nonce": "OZzQQLYOwzQoIaq+h0uVnrDdkuyYKL/DmwZ5/yXAW3w=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -96395,7 +96457,7 @@
                     }
                 },
                 {
-                    "nonce": "kwzh1UDZMCYvchSiuCk/2JCYIwGaS30WBesLfcmlN+Q=",
+                    "nonce": "OZzQQLYOwzQoIaq+h0uVnrDdkuyYKL/DmwZ5/yXAW3w=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -96407,7 +96469,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:08.198857",
+        "timestamp": "2026-08-01T06:17:53.856619",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -96623,7 +96685,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.832Z",
+                            "launch_date": "1999-12-09T18:30:00.766Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -96658,9 +96720,9 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": -3.58,
-                                "stat_3y": 6.58,
-                                "stat_5y": 9.2,
+                                "stat_1y": -3.02,
+                                "stat_3y": 6.47,
+                                "stat_5y": 9.24,
                                 "stat_all": 13.4,
                                 "title": "Fund Returns"
                             },
@@ -96712,11 +96774,11 @@
                                 "cat_return5y": 14.963175625273163,
                                 "cat_return10y": 13.15689160055596,
                                 "cat_return_since_launch": null,
-                                "rank3m": 90,
-                                "rank6m": 101,
-                                "rank1yr": 95,
-                                "rank3yr": 76,
-                                "rank5yr": 57,
+                                "rank3m": 91,
+                                "rank6m": 103,
+                                "rank1yr": 97,
+                                "rank3yr": 78,
+                                "rank5yr": 58,
                                 "rank10yr": 31,
                                 "index_return1y": null,
                                 "index_return3y": null,
@@ -97188,8 +97250,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 745.3116,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 746.894,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -97680,6 +97742,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.23,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.23,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -106542,8 +106610,8 @@
                                 "sub_sub_category": "",
                                 "aum": 1847.3812,
                                 "mean_return": 11.44,
-                                "return3y": 15.02,
-                                "return1y": 6.21,
+                                "return3y": 15.08,
+                                "return1y": 7.33,
                                 "min_investment": 1000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -106582,7 +106650,7 @@
                                 "aum": 1328.65755193,
                                 "mean_return": null,
                                 "return3y": 14.76,
-                                "return1y": 3.5,
+                                "return1y": 4.33,
                                 "min_investment": 500,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -106620,8 +106688,8 @@
                                 "sub_sub_category": "",
                                 "aum": 53227.0449,
                                 "mean_return": 12.09,
-                                "return3y": 12.97,
-                                "return1y": 0.86,
+                                "return3y": 12.85,
+                                "return1y": 1.21,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -106659,8 +106727,8 @@
                                 "sub_sub_category": "",
                                 "aum": 79420.73776911,
                                 "mean_return": 11.28,
-                                "return3y": 12.83,
-                                "return1y": -0.21,
+                                "return3y": 12.74,
+                                "return1y": 0.52,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -106698,8 +106766,8 @@
                                 "sub_sub_category": "",
                                 "aum": 7190.4452,
                                 "mean_return": 9.54,
-                                "return3y": 12.5,
-                                "return1y": -1.24,
+                                "return3y": 12.45,
+                                "return1y": -0.37,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -106720,7 +106788,7 @@
                                 "scheme_type": "Growth",
                                 "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/dsp_groww.png",
                                 "groww_scheme_code": "INF740K01PR3",
-                                "expense_ratio": "1.29",
+                                "expense_ratio": "1.28",
                                 "swp_frequencies": null,
                                 "tag": null,
                                 "sub_tag": null,
@@ -106736,14 +106804,14 @@
             "query": {
                 "searchId": "hdfc-bse-sensex-index-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "UquS7b4aPIV5DpRuWS9WYF8jenejCvOMhPTACoMCITo=",
+                    "nonce": "UxMlQhwsffuY4JfmqsvPmCInxkcQdcgbCRDZ/t0pfFE=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -106751,7 +106819,7 @@
                     }
                 },
                 {
-                    "nonce": "UquS7b4aPIV5DpRuWS9WYF8jenejCvOMhPTACoMCITo=",
+                    "nonce": "UxMlQhwsffuY4JfmqsvPmCInxkcQdcgbCRDZ/t0pfFE=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -106763,7 +106831,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-pharma-and-healthcare-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:08.566464",
+        "timestamp": "2026-08-01T06:17:54.332116",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -106952,7 +107020,7 @@
                                 "scheme_code": "152082",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "p_return_analysis",
-                                "analysis_desc": "1Y annualised returns higher than category average by 21.36%",
+                                "analysis_desc": "1Y annualised returns higher than category average by 22.53%",
                                 "analysis_data": "p_return_analysis",
                                 "rating": null
                             }
@@ -106963,7 +107031,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.901Z",
+                            "launch_date": "1999-12-09T18:30:00.838Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -106998,7 +107066,7 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 19.22,
+                                "stat_1y": 20.39,
                                 "stat_3y": null,
                                 "stat_5y": null,
                                 "stat_all": null,
@@ -107598,8 +107666,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 21.772,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 21.79,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -108010,6 +108078,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 1.11,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 1.11,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -113330,14 +113404,14 @@
             "query": {
                 "searchId": "hdfc-pharma-and-healthcare-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "RulDd+8Qe46GYbH8jp8XU9vqJ7VvQpry/YW0k3WXf8I=",
+                    "nonce": "f2TfD/yM8kUIG0yusZJsQ4+98SoJg7q3XVk2CbbY+Jc=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -113345,7 +113419,7 @@
                     }
                 },
                 {
-                    "nonce": "RulDd+8Qe46GYbH8jp8XU9vqJ7VvQpry/YW0k3WXf8I=",
+                    "nonce": "f2TfD/yM8kUIG0yusZJsQ4+98SoJg7q3XVk2CbbY+Jc=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -113357,7 +113431,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-liquid-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:09.305198",
+        "timestamp": "2026-08-01T06:17:54.882002",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -113565,7 +113639,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.148Z",
+                            "launch_date": "1999-12-09T18:30:00.527Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -113600,8 +113674,8 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 6.37,
-                                "stat_3y": 6.94,
+                                "stat_1y": 6.38,
+                                "stat_3y": 6.95,
                                 "stat_5y": 6.24,
                                 "stat_all": 7.31,
                                 "title": "Fund Returns"
@@ -115810,8 +115884,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 5534.9831,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 5536.3932,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -116243,6 +116317,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.2,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.2,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -125100,7 +125180,7 @@
                                 "aum": 63686.62246457,
                                 "mean_return": 6.89,
                                 "return3y": 7.03,
-                                "return1y": 6.47,
+                                "return1y": 6.48,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 3,
@@ -125132,53 +125212,14 @@
                             {
                                 "id": null,
                                 "scheme_search": null,
-                                "search_id": "axis-liquid-direct-fund-growth",
-                                "category": "Debt",
-                                "sub_category": "Liquid",
-                                "sub_sub_category": "",
-                                "aum": 44865.8525,
-                                "mean_return": 6.88,
-                                "return3y": 7.02,
-                                "return1y": 6.47,
-                                "min_investment": 100,
-                                "groww_rating": 5,
-                                "risk_rating": 7,
-                                "super_category": "Axis Liquid Direct Fund",
-                                "scheme_name": "Axis Liquid Direct Fund Growth",
-                                "fund_manager": "Aditya Pagaria",
-                                "fund_house": "Axis Mutual Fund",
-                                "scheme_code": "120389",
-                                "direct_scheme_code": "120389",
-                                "regular_search_id": null,
-                                "launch_date": "2012-12-31T18:30:00.000Z",
-                                "risk": "Low to Moderate",
-                                "available_for_investment": true,
-                                "prime_investment_allowed": null,
-                                "min_sip_investment": 100,
-                                "sip_allowed": true,
-                                "plan_type": "Direct",
-                                "scheme_type": "Growth",
-                                "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/axis_groww.png",
-                                "groww_scheme_code": "INF846K01CX4",
-                                "expense_ratio": "0.12",
-                                "swp_frequencies": null,
-                                "tag": null,
-                                "sub_tag": null,
-                                "note_text": null,
-                                "deep_link": null,
-                                "fund_name": "Axis Liquid Direct Fund"
-                            },
-                            {
-                                "id": null,
-                                "scheme_search": null,
                                 "search_id": "edelweiss-liquid-fund-direct-growth",
                                 "category": "Debt",
                                 "sub_category": "Liquid",
                                 "sub_sub_category": "",
                                 "aum": 12258.5471,
                                 "mean_return": 6.73,
-                                "return3y": 7.02,
-                                "return1y": 6.44,
+                                "return3y": 7.03,
+                                "return1y": 6.45,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 7,
@@ -125210,14 +125251,53 @@
                             {
                                 "id": null,
                                 "scheme_search": null,
+                                "search_id": "axis-liquid-direct-fund-growth",
+                                "category": "Debt",
+                                "sub_category": "Liquid",
+                                "sub_sub_category": "",
+                                "aum": 44865.8525,
+                                "mean_return": 6.88,
+                                "return3y": 7.02,
+                                "return1y": 6.48,
+                                "min_investment": 100,
+                                "groww_rating": 5,
+                                "risk_rating": 7,
+                                "super_category": "Axis Liquid Direct Fund",
+                                "scheme_name": "Axis Liquid Direct Fund Growth",
+                                "fund_manager": "Aditya Pagaria",
+                                "fund_house": "Axis Mutual Fund",
+                                "scheme_code": "120389",
+                                "direct_scheme_code": "120389",
+                                "regular_search_id": null,
+                                "launch_date": "2012-12-31T18:30:00.000Z",
+                                "risk": "Low to Moderate",
+                                "available_for_investment": true,
+                                "prime_investment_allowed": null,
+                                "min_sip_investment": 100,
+                                "sip_allowed": true,
+                                "plan_type": "Direct",
+                                "scheme_type": "Growth",
+                                "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/axis_groww.png",
+                                "groww_scheme_code": "INF846K01CX4",
+                                "expense_ratio": "0.12",
+                                "swp_frequencies": null,
+                                "tag": null,
+                                "sub_tag": null,
+                                "note_text": null,
+                                "deep_link": null,
+                                "fund_name": "Axis Liquid Direct Fund"
+                            },
+                            {
+                                "id": null,
+                                "scheme_search": null,
                                 "search_id": "pgim-india-liquid-fund-direct-plan-growth",
                                 "category": "Debt",
                                 "sub_category": "Liquid",
                                 "sub_sub_category": "",
                                 "aum": 748.2282,
                                 "mean_return": 6.82,
-                                "return3y": 7,
-                                "return1y": 6.43,
+                                "return3y": 7.01,
+                                "return1y": 6.44,
                                 "min_investment": 5000,
                                 "groww_rating": 5,
                                 "risk_rating": 7,
@@ -125255,8 +125335,8 @@
                                 "sub_sub_category": "",
                                 "aum": 2915.46730203,
                                 "mean_return": 6.89,
-                                "return3y": 7,
-                                "return1y": 6.44,
+                                "return3y": 7.01,
+                                "return1y": 6.45,
                                 "min_investment": 10000,
                                 "groww_rating": 4,
                                 "risk_rating": 7,
@@ -125293,14 +125373,14 @@
             "query": {
                 "searchId": "hdfc-liquid-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "3utpt3eyrlwUbAhtCmnuCKectuF19gMdenQRWAEYXAg=",
+                    "nonce": "/ovaXiERlCOfyiEoIxlIEvVYKBk9TFr7SIiTVdNVVDM=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -125308,7 +125388,7 @@
                     }
                 },
                 {
-                    "nonce": "3utpt3eyrlwUbAhtCmnuCKectuF19gMdenQRWAEYXAg=",
+                    "nonce": "/ovaXiERlCOfyiEoIxlIEvVYKBk9TFr7SIiTVdNVVDM=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -125320,7 +125400,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:10.221513",
+        "timestamp": "2026-08-01T06:17:55.678093",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -125517,7 +125597,7 @@
                                 "scheme_code": "151727",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "p_return_analysis",
-                                "analysis_desc": "1Y annualised returns higher than category average by 9.56%",
+                                "analysis_desc": "1Y annualised returns higher than category average by 10.95%",
                                 "analysis_data": "p_return_analysis",
                                 "rating": null
                             },
@@ -125525,7 +125605,7 @@
                                 "scheme_code": "151727",
                                 "analysis_type": "CONS",
                                 "analysis_subject": "c_return_analysis",
-                                "analysis_desc": "3Y annualised returns lower than category average by 3.12%",
+                                "analysis_desc": "3Y annualised returns lower than category average by 3.31%",
                                 "analysis_data": "c_return_analysis",
                                 "rating": null
                             },
@@ -125544,7 +125624,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.445Z",
+                            "launch_date": "1999-12-09T18:30:00.138Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -125579,8 +125659,8 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 3.27,
-                                "stat_3y": 16.58,
+                                "stat_1y": 4.66,
+                                "stat_3y": 16.39,
                                 "stat_5y": null,
                                 "stat_all": null,
                                 "title": "Fund Returns"
@@ -125595,7 +125675,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 36,
+                                "stat_1y": 35,
                                 "stat_3y": 22,
                                 "stat_5y": null,
                                 "stat_all": null,
@@ -129189,8 +129269,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 19.4464,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 19.5332,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -129674,6 +129754,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 0.33,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 0.33,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -135986,8 +136072,8 @@
                                 "sub_sub_category": "",
                                 "aum": 28466.1785,
                                 "mean_return": 0,
-                                "return3y": 27.21,
-                                "return1y": 7.95,
+                                "return3y": 27.03,
+                                "return1y": 9.37,
                                 "min_investment": 1000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -136025,8 +136111,8 @@
                                 "sub_sub_category": "",
                                 "aum": 13384.8804,
                                 "mean_return": 3.01,
-                                "return3y": 23.88,
-                                "return1y": 13.88,
+                                "return3y": 23.55,
+                                "return1y": 14.88,
                                 "min_investment": 100,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -136064,8 +136150,8 @@
                                 "sub_sub_category": "",
                                 "aum": 3871.80037037,
                                 "mean_return": -0.65,
-                                "return3y": 18.28,
-                                "return1y": 10.44,
+                                "return3y": 18.09,
+                                "return1y": 12.04,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -136103,8 +136189,8 @@
                                 "sub_sub_category": "",
                                 "aum": 78407.0325,
                                 "mean_return": 8.7,
-                                "return3y": 16.86,
-                                "return1y": 5.64,
+                                "return3y": 16.74,
+                                "return1y": 6.99,
                                 "min_investment": 5000,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -136142,8 +136228,8 @@
                                 "sub_sub_category": "",
                                 "aum": 29393.793798,
                                 "mean_return": 17.55,
-                                "return3y": 16.85,
-                                "return1y": 7.11,
+                                "return3y": 16.5,
+                                "return1y": 7.81,
                                 "min_investment": 100,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -136180,14 +136266,14 @@
             "query": {
                 "searchId": "hdfc-nifty-smallcap-250-index-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "bcUKyQ3XdW7s4YgpMMYEsAF7C7cdMxUjWf3cKMPdMYY=",
+                    "nonce": "tprdLrTJgRHF802AdWQf0oJ0QNnVWa1wNRISwxO6aYc=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -136195,7 +136281,7 @@
                     }
                 },
                 {
-                    "nonce": "bcUKyQ3XdW7s4YgpMMYEsAF7C7cdMxUjWf3cKMPdMYY=",
+                    "nonce": "tprdLrTJgRHF802AdWQf0oJ0QNnVWa1wNRISwxO6aYc=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -136207,7 +136293,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth",
-        "timestamp": "2026-07-31T06:34:10.764453",
+        "timestamp": "2026-08-01T06:17:56.280610",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -136388,7 +136474,7 @@
                                 "scheme_code": "119131",
                                 "analysis_type": "PROS",
                                 "analysis_subject": "p_return_analysis",
-                                "analysis_desc": "10Y annualised returns higher than category average by 0.31%",
+                                "analysis_desc": "10Y annualised returns higher than category average by 0.32%",
                                 "analysis_data": "p_return_analysis",
                                 "rating": null
                             },
@@ -136415,7 +136501,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 944244.2088,
-                            "launch_date": "1999-12-09T18:30:00.948Z",
+                            "launch_date": "1999-12-09T18:30:00.223Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -136450,9 +136536,9 @@
                         "stats": [
                             {
                                 "type": "FUND_RETURN",
-                                "stat_1y": 6.17,
-                                "stat_3y": 12.68,
-                                "stat_5y": 12.1,
+                                "stat_1y": 6.44,
+                                "stat_3y": 12.57,
+                                "stat_5y": 12.12,
                                 "stat_all": 10.5,
                                 "title": "Fund Returns"
                             },
@@ -136492,7 +136578,7 @@
                                 "return_default": 10.5,
                                 "mean_return": 12.38,
                                 "sharpe_ratio": 0.86,
-                                "beta": 0.76,
+                                "beta": null,
                                 "standard_deviation": 7.65,
                                 "risk_rating": null,
                                 "risk": "Very High",
@@ -136504,11 +136590,11 @@
                                 "cat_return5y": 16.11038377499498,
                                 "cat_return10y": 11.50325061659585,
                                 "cat_return_since_launch": null,
-                                "rank3m": 17,
-                                "rank6m": 22,
-                                "rank1yr": 22,
-                                "rank3yr": 9,
-                                "rank5yr": 6,
+                                "rank3m": 34,
+                                "rank6m": 36,
+                                "rank1yr": 37,
+                                "rank3yr": 20,
+                                "rank5yr": 12,
                                 "rank10yr": null,
                                 "index_return1y": null,
                                 "index_return3y": null,
@@ -138548,8 +138634,8 @@
                                 "stock_search_id": null
                             }
                         ],
-                        "nav": 84.661,
-                        "nav_date": "30-Jul-2026",
+                        "nav": 84.752,
+                        "nav_date": "31-Jul-2026",
                         "plan_type": "Direct",
                         "scheme_type": "Growth",
                         "alternate_scheme_type": null,
@@ -139449,6 +139535,12 @@
                             }
                         ],
                         "historic_fund_expense": [
+                            {
+                                "expense_ratio": 1.03,
+                                "as_on_date": "2026-07-30T00:00:00",
+                                "frequency": null,
+                                "turn_over_ratio": null
+                            },
                             {
                                 "expense_ratio": 1.03,
                                 "as_on_date": "2026-07-29T00:00:00",
@@ -148311,8 +148403,8 @@
                                 "sub_sub_category": "",
                                 "aum": 5980.3651,
                                 "mean_return": 5.64,
-                                "return3y": 22.49,
-                                "return1y": 19.47,
+                                "return3y": 22.48,
+                                "return1y": 20.56,
                                 "min_investment": 5000,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -148350,8 +148442,8 @@
                                 "sub_sub_category": "",
                                 "aum": 16000.15507694,
                                 "mean_return": null,
-                                "return3y": 19.08,
-                                "return1y": 15.43,
+                                "return3y": 18.95,
+                                "return1y": 15.65,
                                 "min_investment": 5000,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -148389,8 +148481,8 @@
                                 "sub_sub_category": "",
                                 "aum": 7107.26362663,
                                 "mean_return": null,
-                                "return3y": 16.65,
-                                "return1y": 13.25,
+                                "return3y": 16.63,
+                                "return1y": 13.38,
                                 "min_investment": 500,
                                 "groww_rating": 5,
                                 "risk_rating": 5,
@@ -148428,8 +148520,8 @@
                                 "sub_sub_category": "",
                                 "aum": 19354.24513238,
                                 "mean_return": 7.2,
-                                "return3y": 16.13,
-                                "return1y": 12.39,
+                                "return3y": 15.99,
+                                "return1y": 12.98,
                                 "min_investment": 5000,
                                 "groww_rating": 4,
                                 "risk_rating": 6,
@@ -148467,8 +148559,8 @@
                                 "sub_sub_category": "",
                                 "aum": 84990.57389093,
                                 "mean_return": 12.6,
-                                "return3y": 15.73,
-                                "return1y": 8.43,
+                                "return3y": 15.51,
+                                "return1y": 8.86,
                                 "min_investment": 500,
                                 "groww_rating": 5,
                                 "risk_rating": 6,
@@ -148505,14 +148597,14 @@
             "query": {
                 "searchId": "hdfc-multi-asset-allocation-fund-direct-growth"
             },
-            "buildId": "W9lAJgHtZ5Xqt4aOR1Eak",
+            "buildId": "p_b9cxbblWwRhPV90VrAU",
             "assetPrefix": "//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod",
             "isFallback": false,
             "isExperimentalCompile": false,
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "FuTnPgkS9/CMpAlg+/HZjhyGAeJYul11Lrqhi1awyKU=",
+                    "nonce": "52O3l/Yipz57OLB4+6WxDgdALGSsr853LfGP69Rr5ws=",
                     "strategy": "afterInteractive",
                     "id": "_webengage_script_tag",
                     "dangerouslySetInnerHTML": {
@@ -148520,7 +148612,7 @@
                     }
                 },
                 {
-                    "nonce": "FuTnPgkS9/CMpAlg+/HZjhyGAeJYul11Lrqhi1awyKU=",
+                    "nonce": "52O3l/Yipz57OLB4+6WxDgdALGSsr853LfGP69Rr5ws=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
