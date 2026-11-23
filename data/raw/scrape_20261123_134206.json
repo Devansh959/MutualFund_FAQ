@@ -1,7 +1,7 @@
 [
     {
         "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:39.125487",
+        "timestamp": "2026-11-23T13:41:55.778110",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -226,7 +226,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.601Z",
+                            "launch_date": "1999-12-09T18:30:00.398Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -13259,7 +13259,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "YNU09w5SictZsKa5nKswB5RaTfGp/Dg1PUkBa5u0lIg=",
+                    "nonce": "zGjr92p5lYyESNJnwssRvr5dN2VaygDEcjRvdfu1TSs=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -13271,7 +13271,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-        "timestamp": "2026-11-22T12:01:39.650985",
+        "timestamp": "2026-11-23T13:41:56.790397",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -13480,7 +13480,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.354Z",
+                            "launch_date": "1999-12-09T18:30:00.143Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -13531,7 +13531,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 11,
+                                "stat_1y": 12,
                                 "stat_3y": 7,
                                 "stat_5y": null,
                                 "stat_all": null,
@@ -23389,7 +23389,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "+pF/Y47HOwimdDcZS9AjprBsVjyevaexggkiDX/vW8I=",
+                    "nonce": "sUq2AWWt8mIPVjmylzR5CiJONuUOZSNrkMGfV2KxosA=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -23401,7 +23401,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:40.056530",
+        "timestamp": "2026-11-23T13:41:57.282096",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -23618,7 +23618,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.399Z",
+                            "launch_date": "1999-12-09T18:30:00.031Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -23669,9 +23669,9 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 20,
-                                "stat_3y": 5,
-                                "stat_5y": 1,
+                                "stat_1y": 21,
+                                "stat_3y": 6,
+                                "stat_5y": 2,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
                             }
@@ -23700,10 +23700,10 @@
                                 "risk_rating": null,
                                 "risk": "Very High",
                                 "return_since_created": 16.33,
-                                "cat_return3m": 2.06,
-                                "cat_return6m": 8.84,
+                                "cat_return3m": 2.07,
+                                "cat_return6m": 8.85,
                                 "cat_return1y": 4.02,
-                                "cat_return3y": 13.12,
+                                "cat_return3y": 13.13,
                                 "cat_return5y": 11.4,
                                 "cat_return10y": 14.84,
                                 "cat_return_since_launch": 14.4,
@@ -36750,7 +36750,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "Yj8p10m+hphJm/aWPTk1kIBLlo9b+c5CKWt/i1yFujk=",
+                    "nonce": "3WxcRaXgFo8kYgNETVU38QX6l3yRI2k9J2Me32/ne9Q=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -36762,7 +36762,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:40.422349",
+        "timestamp": "2026-11-23T13:41:57.929084",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -36979,7 +36979,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.140Z",
+                            "launch_date": "1999-12-09T18:30:00.442Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -37061,10 +37061,10 @@
                                 "risk_rating": null,
                                 "risk": "Very High",
                                 "return_since_created": 37.37,
-                                "cat_return3m": -0.03,
-                                "cat_return6m": 6.41,
-                                "cat_return1y": 3.55,
-                                "cat_return3y": 14.6,
+                                "cat_return3m": -0.02,
+                                "cat_return6m": 6.42,
+                                "cat_return1y": 3.56,
+                                "cat_return3y": 14.61,
                                 "cat_return5y": 13.63,
                                 "cat_return10y": 15.55,
                                 "cat_return_since_launch": 15.14,
@@ -45826,7 +45826,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "5BUpmChSlP4qW4iQa/yWVJo+sqQMC413ZtHdZVQQEUI=",
+                    "nonce": "EQVLcmDF+JoeHcuATZZRaps3kHLddNqWn4jOucyzNhE=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -45838,7 +45838,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-        "timestamp": "2026-11-22T12:01:40.875722",
+        "timestamp": "2026-11-23T13:41:58.547899",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -46055,7 +46055,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.225Z",
+                            "launch_date": "1999-12-09T18:30:00.139Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -46106,7 +46106,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 17,
+                                "stat_1y": 18,
                                 "stat_3y": 8,
                                 "stat_5y": 2,
                                 "stat_all": null,
@@ -57910,7 +57910,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "5eAlZgsGkY58KGZ7ZOg7d8AjMj0lO3VMIdXyJq9W9mo=",
+                    "nonce": "/G8QWxa6UW2nb9cju45Fm3eHrItYr5/Qbt14t76aR7U=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -57922,7 +57922,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:41.518033",
+        "timestamp": "2026-11-23T13:41:58.995162",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -58147,7 +58147,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.941Z",
+                            "launch_date": "1999-12-09T18:30:00.250Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -71327,7 +71327,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "cMhIDzaa17I/ClN3Lhn6I3tk87YRKG8RnWWGeoAbvR0=",
+                    "nonce": "AXQwyufpREwK6W1JJTQBXDSfAKw0QZbo1fmX9/g/1Mo=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -71339,7 +71339,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:42.312123",
+        "timestamp": "2026-11-23T13:41:59.892097",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -71564,7 +71564,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.159Z",
+                            "launch_date": "1999-12-09T18:30:00.193Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -71615,7 +71615,7 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 30,
+                                "stat_1y": 33,
                                 "stat_3y": 11,
                                 "stat_5y": 1,
                                 "stat_all": null,
@@ -88540,7 +88540,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "ZoL+fdGNKpybv8+vuFZCFNfib73Twzbu84ljH2TS+i0=",
+                    "nonce": "MER9VDWtr9tGC7z9X0nsA4Fvo8BtavrWnZWDooCE64E=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -88552,7 +88552,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-multi-cap-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:42.716450",
+        "timestamp": "2026-11-23T13:42:00.917642",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -88769,7 +88769,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.791Z",
+                            "launch_date": "1999-12-09T18:30:00.347Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -102342,7 +102342,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "Ph0mK4Tg5rl6GCToWtwaMnHfrLlbMtisDFF9Ocw3vjo=",
+                    "nonce": "xi54ZN6WCGzjMVx/rq5L/yuA3ldmYXI5YoHzD+5k1QM=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -102354,7 +102354,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-short-term-opportunities-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:43.630876",
+        "timestamp": "2026-11-23T13:42:02.111125",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -102587,7 +102587,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.956Z",
+                            "launch_date": "1999-12-09T18:30:00.459Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -116477,7 +116477,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "C4lkoblXf4ugnMDNTjixlEKNYNQxfHB5ROn9lnB6mzc=",
+                    "nonce": "9+qjBA5ONxTpbbGystupdNF3CMj8LVkx5fxUbPZtonk=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -116489,7 +116489,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:44.358217",
+        "timestamp": "2026-11-23T13:42:02.933282",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -116722,7 +116722,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.851Z",
+                            "launch_date": "1999-12-09T18:30:00.487Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -116774,7 +116774,7 @@
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
                                 "stat_1y": 100,
-                                "stat_3y": 77,
+                                "stat_3y": 78,
                                 "stat_5y": 59,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
@@ -129181,7 +129181,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "2W4TC+j94Fvx/CDbKCy1xZ4COPYMLrYgOwhH38rMbG0=",
+                    "nonce": "ey9udujXsankra0U1NHwX5Kf+pYGQVEdUGQLzXVFS4w=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -129193,7 +129193,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-pharma-and-healthcare-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:44.792274",
+        "timestamp": "2026-11-23T13:42:03.663307",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -129410,7 +129410,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.798Z",
+                            "launch_date": "1999-12-09T18:30:00.392Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -129492,11 +129492,11 @@
                                 "risk_rating": null,
                                 "risk": "Very High",
                                 "return_since_created": 31.68,
-                                "cat_return3m": 4.59,
-                                "cat_return6m": 13.24,
-                                "cat_return1y": 21.72,
+                                "cat_return3m": 4.57,
+                                "cat_return6m": 13.22,
+                                "cat_return1y": 21.7,
                                 "cat_return3y": 22.51,
-                                "cat_return5y": 17.61,
+                                "cat_return5y": 17.6,
                                 "cat_return10y": 16.44,
                                 "cat_return_since_launch": 17.7,
                                 "rank3m": 4,
@@ -137500,7 +137500,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "RkUnK852FLGFd6akG+wma07XLIpM018H0/V7nrnZZPA=",
+                    "nonce": "CQNRIisJF+J5F0v6j5rPIrP73P9ue6a19AAD19dp0nY=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -137512,7 +137512,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-liquid-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:45.365380",
+        "timestamp": "2026-11-23T13:42:04.708960",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -137729,7 +137729,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.025Z",
+                            "launch_date": "1999-12-09T18:30:00.904Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -140259,8 +140259,8 @@
                             "return1d": null,
                             "return1w": null,
                             "return1m": null,
-                            "return3m": 6.35,
-                            "return6m": 6.39,
+                            "return3m": 6.37,
+                            "return6m": 6.4,
                             "return9m": 6.54,
                             "return1y": 6.57,
                             "return2y": 6.49,
@@ -140336,12 +140336,12 @@
                             "risk_rating": null,
                             "risk": null,
                             "return_since_created": 24815.53,
-                            "cat_return3m": 76.95,
+                            "cat_return3m": 76.96,
                             "cat_return6m": 81.97,
                             "cat_return1y": 6.42,
-                            "cat_return3y": 21.66,
+                            "cat_return3y": 21.67,
                             "cat_return5y": 35.74,
-                            "cat_return10y": 1175.85,
+                            "cat_return10y": 1175.87,
                             "cat_return_since_launch": 2588.09,
                             "rank3m": null,
                             "rank6m": null,
@@ -151743,7 +151743,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "Ot7sGDkjN9oBX5/8TrU2/0onzzBHaWbOsoet4n0eH7k=",
+                    "nonce": "FdRiZtqf8W6afUToMlYdhzOlPtHoNc7ngZW50wkTSBM=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -151755,7 +151755,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:46.078683",
+        "timestamp": "2026-11-23T13:42:05.709955",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -151988,7 +151988,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.563Z",
+                            "launch_date": "1999-12-09T18:30:00.928Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -164559,7 +164559,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "SJHgcoG0bRtrotgtL0O+gIBE4r7QxUOS3Ik658nZrI0=",
+                    "nonce": "85Kkd0mt1OyTHvfC71tm9bLFHHdJpJ9/m/8kwWIIXEA=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
@@ -164571,7 +164571,7 @@
     },
     {
         "url": "https://groww.in/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth",
-        "timestamp": "2026-11-22T12:01:47.030776",
+        "timestamp": "2026-11-23T13:42:06.388558",
         "raw_data": {
             "props": {
                 "pageProps": {
@@ -164788,7 +164788,7 @@
                             "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
                             "phone": "022 \u2013 66316333",
                             "aum": 933671.13933074,
-                            "launch_date": "1999-12-09T18:30:00.312Z",
+                            "launch_date": "1999-12-09T18:30:00.437Z",
                             "email": "shareholders.relations@hdfcfund.com",
                             "rank": "2",
                             "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of \u20b92,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -164839,9 +164839,9 @@
                             },
                             {
                                 "type": "RANK_WITHIN_CATEGORY",
-                                "stat_1y": 17,
-                                "stat_3y": 6,
-                                "stat_5y": 4,
+                                "stat_1y": 30,
+                                "stat_3y": 20,
+                                "stat_5y": 12,
                                 "stat_all": null,
                                 "title": "Rank Within Category"
                             }
@@ -164870,9 +164870,9 @@
                                 "risk_rating": null,
                                 "risk": "Very High",
                                 "return_since_created": 11.5,
-                                "cat_return3m": -2.43,
-                                "cat_return6m": 1.06,
-                                "cat_return1y": 4.21,
+                                "cat_return3m": -2.42,
+                                "cat_return6m": 1.07,
+                                "cat_return1y": 4.22,
                                 "cat_return3y": 14.13,
                                 "cat_return5y": 12.3,
                                 "cat_return10y": 12.55,
@@ -179027,7 +179027,7 @@
             "gip": true,
             "scriptLoader": [
                 {
-                    "nonce": "4HSRQgvbujID/Y2PgS30l6f5cx05/BMo5qbK7DXefO0=",
+                    "nonce": "OgCxSv6S6rIdECFSMhSFoOM6OPBt/sv6tfQhUx3oAfk=",
                     "strategy": "afterInteractive",
                     "dangerouslySetInnerHTML": {
                         "__html": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?refresh=1&id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-T7VTWPR')"
